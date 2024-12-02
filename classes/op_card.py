@@ -1,3 +1,5 @@
+import re
+import json
 from enum import Enum
 from sqlalchemy import create_engine, Column, Integer, String, Boolean, ForeignKey
 from sqlalchemy.orm import sessionmaker, relationship
@@ -44,7 +46,7 @@ class ColorModel(Base):
 
 class OPCard(Base):
     __tablename__ = 'opcards'
-    id = Column(Integer, primary_key=True)
+    id = Column(String, primary_key=True)
     name = Column(String)
     card_id = Column(String)
     imageUrl = Column(String)
@@ -70,24 +72,52 @@ class OPCard(Base):
         self.ID:str = ID,
         self.imageUrl:str = imageUrl
         self.alternate:bool = alternate
-        self.power:int = power
-        self.effect:list[str] = effect
-        self.counter:int = counter
-        self.trigger:str = trigger
-        self.card_set:str  =  card_set
+        self.power:int = self.clear_int(power)
+        self.effect:list[str] = self.clear_text(effect, split="<br/>")
+        self.counter:int = self.clear_int(counter)
+        self.trigger:str = self.clear_text(trigger, split="<br/>")
+        self.card_set:str  =  self.clear_text(card_set, split="/")
         self.color:list[Color] = color
         self.rarity:Rarity = rarity,
         self.card_type:str   =  card_type
         self.feature:list[str] = feature
         self.attribute:str = attribute
-        self.cost:int  =  cost
+        self.cost:int  =  self.clear_int(cost)
 
   
-    def clear_text(xml, split=None) -> str|list[str]:
-        text = xml
+    def clear_text(self, xml_text, split=None) -> str|list[str]:
+        text = xml_text.split("</h3>")[-1]
+        if split:
+            return text.split(split)
         return text
     
-    def clear_int(xml) -> int:
-        num = xml
-        return num
+    def clear_int(self, xml_text) -> int:
+        num =  re.search(r'\d+', xml_text)
+        if num:
+            return int(num.group())
+        return 0
     
+    def __str__(self):
+        return (f"OPCard(name={self.name}, card_id={self.card_id}, imageUrl={self.imageUrl}, "
+                f"alternate={self.alternate}, power={self.power}, effect={self.effect}, "
+                f"counter={self.counter}, card_set={self.card_set}, color={self.color}, "
+                f"rarity={self.rarity}, card_type={self.card_type}, "
+                f"feature={self.feature}, attribute={self.attribute}, cost={self.cost})")
+    
+    def to_json(self):
+            return json.dumps({
+                "name": self.name,
+                "card_id": self.card_id,
+                "imageUrl": self.imageUrl,
+                "alternate": self.alternate,
+                "power": self.power,
+                "effect": self.effect,
+                "counter": self.counter,
+                "card_set": self.card_set,
+                "color": self.color,
+                "rarity": self.rarity,
+                "card_type": self.card_type,
+                "feature": self.feature,
+                "attribute": self.attribute,
+                "cost": self.cost
+            })
