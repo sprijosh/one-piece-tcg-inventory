@@ -1,0 +1,398 @@
+[
+  {
+    "name": [
+      "艾德華・紐蓋特"
+    ],
+    "card_id": [
+      "OP02-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-001_p4.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "【我方回合結束時】將自己生命值區最上面的1張卡片加入手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征四皇/白鬍子海賊團",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "裘斯"
+    ],
+    "card_id": [
+      "OP02-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-008_p2.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【咚‼×1】若自己的生命值卡在2張以下，並且自己的領航卡擁有包含『白鬍子海賊團』特徵時，這張角色卡獲得【速攻】を得る",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "馬可"
+    ],
+    "card_id": [
+      "OP02-018"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-018_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【KO時】可以廢棄1張自己手牌中擁有包含『白鬍子海賊團』特徵的卡片：若自己的生命值卡在2張以下時，使這張角色卡從廢棄區以休息狀態登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "落葉"
+    ],
+    "card_id": [
+      "OP02-019"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-019_p1.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【咚‼×1】【我方回合中】自己擁有包含『白鬍子海賊團』特徵的角色卡全數力量值+1000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "即使是笨兒子我還是會愛你…"
+    ],
+    "card_id": [
+      "OP02-023"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-023_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的生命值在3以下時，在這個回合，自己無法以自己的效果將生命值卡加入手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征四皇/白鬍子海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "以藏"
+    ],
+    "card_id": [
+      "OP03-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-003_p2.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「以藏」以外擁有包含『白鬍子海賊團』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/白鬍子海賊團",
+    "attribute": "射",
+    "cost": 1
+  },
+  {
+    "name": [
+      "史比托・吉爾"
+    ],
+    "card_id": [
+      "OP03-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-006_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "納米爾"
+    ],
+    "card_id": [
+      "OP03-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-007_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/白鬍子海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "哈爾達"
+    ],
+    "card_id": [
+      "OP03-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-009_p1.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【啟動主要】【每回合1次】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "佛薩"
+    ],
+    "card_id": [
+      "OP03-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-010_p1.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "亞托摩斯"
+    ],
+    "card_id": [
+      "ST15-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST15-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【攻擊時】若自己的領航卡是「艾德華・紐蓋特」時，在這個回合，自己無法以自己的效果將生命值卡加入手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "艾德華・紐蓋特"
+    ],
+    "card_id": [
+      "ST15-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST15-002.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "【登場時】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+      "【啟動主要】可將這張角色卡置為休息狀態：KO最多1張對手力量值5000以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征四皇/白鬍子海賊團",
+    "attribute": "特",
+    "cost": 7
+  },
+  {
+    "name": [
+      "金格杜"
+    ],
+    "card_id": [
+      "ST15-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST15-003.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【對方回合中】這張角色卡因效果遭到KO時，最多1張自己的領航卡，在這個回合，力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "薩吉"
+    ],
+    "card_id": [
+      "ST15-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST15-004.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】若自己的領航卡擁有包含『白鬍子海賊團』特徵時，最多1張對手的角色卡，在這個回合，力量值-2000。之後，將1張自己生命值區上面的卡片加入手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "波特卡斯・D・艾斯"
+    ],
+    "card_id": [
+      "ST15-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST15-005.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "若自己的領航卡擁有包含『白鬍子海賊團』特徵時，這張角色卡獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)",
+      "【每回合1次】若這張角色卡因對手的效果即將離開場上時，可以替換成這張角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法紅 艾德華・紐蓋特【ST-15】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "特",
+    "cost": 5
+  }
+]

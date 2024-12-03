@@ -1,0 +1,395 @@
+[
+  {
+    "name": [
+      "夏洛特・卡塔克利"
+    ],
+    "card_id": [
+      "OP03-099"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-099_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。之後，這張領航卡，在這場對戰中，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "夏洛特・歐佩拉"
+    ],
+    "card_id": [
+      "OP03-106"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-106_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "夏洛特・賈萊特"
+    ],
+    "card_id": [
+      "OP03-107"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-107_p1.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "夏洛特・斯姆吉"
+    ],
+    "card_id": [
+      "OP03-110"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-110_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，在這場對戰中，力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "夏洛特・普琳"
+    ],
+    "card_id": [
+      "OP03-112"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-112_p5.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看4張卡片，公開最多1張除了「夏洛特・普琳」以外擁有《BIG MOM海賊團》特徵的卡片或「香吉士」，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "蘇特羅慎"
+    ],
+    "card_id": [
+      "OP03-115"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-115_p1.png?240831",
+    "alternate": true,
+    "power": 1000,
+    "effect": [
+      "【登場時】可以廢棄1張自己手牌中持有【觸發器】的卡片：KO最多1張對手費用1以下的角色卡。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "威國"
+    ],
+    "card_id": [
+      "OP03-118"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-118_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+5000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征四皇/BIG MOM海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "雷霆"
+    ],
+    "card_id": [
+      "OP03-121"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-121_p3.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】可將1張自己生命值區上面的卡片放置到廢棄區：KO最多1張對手費用5以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征四皇/BIG MOM海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "夏洛特・代佛克"
+    ],
+    "card_id": [
+      "ST07-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST07-005_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己卡組上面的卡片加入生命值區上面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "波哥姆斯"
+    ],
+    "card_id": [
+      "ST07-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST07-014_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征純毛族/BIG MOM海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "夏洛特・卡塔克利"
+    ],
+    "card_id": [
+      "ST20-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST20-001.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "夏洛特・慨烈卡"
+    ],
+    "card_id": [
+      "ST20-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST20-002.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【每回合1次】若這張角色卡因為效果即將遭到KO時，可以替換成將1張自己生命值區上面的卡片放置在廢棄區。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "夏洛特・布璃叡"
+    ],
+    "card_id": [
+      "ST20-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST20-003.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "-"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "夏洛特・普琳"
+    ],
+    "card_id": [
+      "ST20-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST20-004.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】可將1張自己生命值區上面的卡片加入手牌：將最多1張自己費用3以下擁有《BIG MOM海賊團》特徵的角色卡，置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "夏洛特・莉莉"
+    ],
+    "card_id": [
+      "ST20-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST20-005.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：對手選擇下列其中一項。",
+      "・對手廢棄2張自身的手牌。",
+      "・將1張對手生命值區上面的卡片放置在廢棄區。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黃 夏洛特・卡塔克利【ST-20】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征四皇/BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 6
+  }
+]

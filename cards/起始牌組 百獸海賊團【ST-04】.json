@@ -1,0 +1,446 @@
+[
+  {
+    "name": [
+      "海道"
+    ],
+    "card_id": [
+      "ST04-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】咚!!-7(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：將最多1張對手的生命值卡放到廢棄區。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征四皇/百獸海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "烏爾蒂"
+    ],
+    "card_id": [
+      "ST04-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-002.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：使最多1張自己手牌中費用4以下的「培濟萬」登場。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "海道"
+    ],
+    "card_id": [
+      "ST04-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-003.png?240831",
+    "alternate": false,
+    "power": 10000,
+    "effect": [
+      "【登場時】咚!!-5(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：KO最多1張對手費用6以下的角色卡，並且這張角色卡，在這個回合，獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征四皇/百獸海賊團",
+    "attribute": "打",
+    "cost": 9
+  },
+  {
+    "name": [
+      "KING"
+    ],
+    "card_id": [
+      "ST04-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-004.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：KO最多1張對手費用4以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "QUEEN"
+    ],
+    "card_id": [
+      "ST04-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-005.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：抽2張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "佐佐木"
+    ],
+    "card_id": [
+      "ST04-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-006.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "射",
+    "cost": 3
+  },
+  {
+    "name": [
+      "席浦斯赫德"
+    ],
+    "card_id": [
+      "ST04-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-007.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團/SMILE",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "JACK"
+    ],
+    "card_id": [
+      "ST04-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-008.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：從咚!!卡組追加最多1張活動狀態的咚!!卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "金菈彌"
+    ],
+    "card_id": [
+      "ST04-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-009.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團/SMILE",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "福茲胡"
+    ],
+    "card_id": [
+      "ST04-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-010.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：KO最多1張對手費用3以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "黑瑪麗亞"
+    ],
+    "card_id": [
+      "ST04-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-011.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "培濟萬"
+    ],
+    "card_id": [
+      "ST04-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-012.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "X・多雷古"
+    ],
+    "card_id": [
+      "ST04-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-013.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍/多雷古海賊團/百獸海賊團",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "招牌大將“災禍”"
+    ],
+    "card_id": [
+      "ST04-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-014.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】抽1張卡片，並從咚!!卡組追加最多1張活動狀態的咚!!卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征百獸海賊團",
+    "attribute": null,
+    "cost": 4
+  },
+  {
+    "name": [
+      "無賴男炸彈"
+    ],
+    "card_id": [
+      "ST04-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-015.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】KO最多1張對手費用6以下的角色卡，並且從咚!!卡組追加最多1張活動狀態的咚!!卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征百獸海賊團",
+    "attribute": null,
+    "cost": 6
+  },
+  {
+    "name": [
+      "吐息"
+    ],
+    "card_id": [
+      "ST04-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-016.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征四皇/百獸海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "鬼島"
+    ],
+    "card_id": [
+      "ST04-017"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST04-017.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張舞台卡置為休息狀態：若自己的領航卡擁有《百獣海賊団》特徵時，從咚!!卡組追加最多1張休息狀態的咚!!卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法百獸海賊團【ST-04】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "STAGE",
+    "feature": "特征百獸海賊團",
+    "attribute": null,
+    "cost": 3
+  }
+]

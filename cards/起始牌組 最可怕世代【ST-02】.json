@@ -1,0 +1,445 @@
+[
+  {
+    "name": [
+      "尤斯塔斯・基德"
+    ],
+    "card_id": [
+      "ST02-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】③(可將費用區的咚!!卡依指定的數量置為休息狀態)，可以廢棄1張自己的手牌：將這張領航卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征超新星/基德海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "比特"
+    ],
+    "card_id": [
+      "ST02-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-002.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征火戰車海賊團",
+    "attribute": "射",
+    "cost": 3
+  },
+  {
+    "name": [
+      "烏魯基"
+    ],
+    "card_id": [
+      "ST02-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-003.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【咚!!×1】若場上有3張以上自己的角色卡時，這個角色的力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/破戒僧海賊團",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "卡波涅・培基"
+    ],
+    "card_id": [
+      "ST02-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-004.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/火戰車海賊團",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "奇拉"
+    ],
+    "card_id": [
+      "ST02-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-005.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】KO最多1張對手休息狀態費用3以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/基德海賊團",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "克比"
+    ],
+    "card_id": [
+      "ST02-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-006.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "珠寶・波妮"
+    ],
+    "card_id": [
+      "ST02-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-007.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【啟動主要】①(可將費用區的咚!!卡依指定的數量置為休息狀態)，可將這張角色卡置為休息狀態：從自己的卡組上面查看5張卡片，公開最多1張擁有《超新星》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/波妮海賊團",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "刮盤人・亞普"
+    ],
+    "card_id": [
+      "ST02-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-008.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【咚!!×1】【攻擊時】將最多1張對手的咚!!卡置為休息狀態。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/ONAIR海賊團",
+    "attribute": "射",
+    "cost": 2
+  },
+  {
+    "name": [
+      "托拉法爾加・羅"
+    ],
+    "card_id": [
+      "ST02-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-009.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】將最多1張自己休息狀態費用5以下擁有《超新星》或《哈特海賊團》特徵的角色卡置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/哈特海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "巴吉魯・霍金斯"
+    ],
+    "card_id": [
+      "ST02-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-010.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚!!×1】【每回合1次】【我方回合中】若這張角色卡和對手的角色卡對戰時，將這張角色卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/霍金斯海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "希特"
+    ],
+    "card_id": [
+      "ST02-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-011.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征基德海賊團",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "培波"
+    ],
+    "card_id": [
+      "ST02-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-012.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征純毛族/哈特海賊團",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "尤斯塔斯・基德"
+    ],
+    "card_id": [
+      "ST02-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-013.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【咚!!×1】【我方回合結束時】將這張角色卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/基德海賊團",
+    "attribute": "特",
+    "cost": 7
+  },
+  {
+    "name": [
+      "X・多雷古"
+    ],
+    "card_id": [
+      "ST02-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-014.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚!!×1】【我方回合中】若這張角色卡在休息狀態時，自己擁有《超新星》或《海軍》特徵的領航卡和角色卡的力量值+1000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍/超新星/多雷古海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "手術刀"
+    ],
+    "card_id": [
+      "ST02-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-015.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，將最多1張自己的咚!!卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/哈特海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "反彈"
+    ],
+    "card_id": [
+      "ST02-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-016.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，將最多1張自己的咚!!卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/基德海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "稻草手刀"
+    ],
+    "card_id": [
+      "ST02-017"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST02-017.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】將最多1張對手的角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法最可怕世代【ST-02】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/霍金斯海賊團",
+    "attribute": null,
+    "cost": 2
+  }
+]

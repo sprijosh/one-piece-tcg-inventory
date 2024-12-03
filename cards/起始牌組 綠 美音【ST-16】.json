@@ -1,0 +1,396 @@
+[
+  {
+    "name": [
+      "巴特洛馬"
+    ],
+    "card_id": [
+      "P-029"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-029_p1.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【我方回合結束時】可將這張角色卡置為休息狀態：將最多1張自己除了「巴特洛馬」以外擁有《FILM》特徵的角色卡置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/超新星/巴特俱樂部",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "泡影搖籃曲"
+    ],
+    "card_id": [
+      "P-057"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-057_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡是「美音」時，最多2張對手休息狀態費用4以下的角色卡，在下一個對手的重整階段無法為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 3
+  },
+  {
+    "name": [
+      "風之去向"
+    ],
+    "card_id": [
+      "P-058"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-058_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡是「美音」時，這個回合結束時，自己擁有《FILM》特徵的角色卡全數，置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "世界的延續"
+    ],
+    "card_id": [
+      "P-059"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-059_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【反擊】若自己的領航卡是「美音」時，可以將自己場上任意張數的角色卡放回手牌。最多1張自己的領航卡或角色卡，在這場對戰中，每有1張放回手牌的角色卡力量值+2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "Tot Musica"
+    ],
+    "card_id": [
+      "P-060"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-060_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】可將1張自己的「美音」置為休息狀態：將最多2張對手的咚‼卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "P-061"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-061_p1.png?240831",
+    "alternate": true,
+    "power": 10000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/草帽一行人",
+    "attribute": "打",
+    "cost": 8
+  },
+  {
+    "name": [
+      "美音"
+    ],
+    "card_id": [
+      "ST11-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-001_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】【每回合1次】公開1張自己卡組上面的卡片，並將最多1張擁有《FILM》特徵的卡片加入手牌。之後，將其餘卡片放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征FILM",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "逆光"
+    ],
+    "card_id": [
+      "ST11-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-003_p2.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡是「美音」時，選擇下列其中一項。",
+      "・將最多1張對手費用5以下的角色卡置為休息狀態。",
+      "・KO最多1張對手休息狀態費用5以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "新時代"
+    ],
+    "card_id": [
+      "ST11-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-004_p2.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡是「美音」時，從自己的卡組上面查看3張卡片，公開最多1張除了「新時代」以外擁有《FILM》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面，將最多1張自己的咚‼卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "我最強"
+    ],
+    "card_id": [
+      "ST11-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-005_p2.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】將最多1張自己的領航卡「美音」置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 3
+  },
+  {
+    "name": [
+      "美音"
+    ],
+    "card_id": [
+      "ST16-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST16-001.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【啟動主要】【每回合1次】可以廢棄1張自己手牌中擁有《FILM》特徵的卡片：附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "高登"
+    ],
+    "card_id": [
+      "ST16-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST16-002.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【對方攻擊時】可以廢棄自己手牌中擁有《音樂》特徵任意張數的卡片。每廢棄1張卡片，1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "夏洛特・卡塔克利"
+    ],
+    "card_id": [
+      "ST16-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST16-003.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "若自己的領航卡擁有《FILM》特徵，自己休息狀態的卡片有6張以上時，這張角色卡的力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/BIG MOM海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "傑克"
+    ],
+    "card_id": [
+      "ST16-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST16-004.png?240831",
+    "alternate": false,
+    "power": 11000,
+    "effect": [
+      "【登場時】KO最多1張對手休息狀態的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/四皇/紅髮海賊團",
+    "attribute": "斬",
+    "cost": 9
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST16-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST16-005.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "若自己的「美音」在休息狀態時，這張角色卡的力量值+1000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法綠 美音【ST-16】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/超新星/草帽一行人",
+    "attribute": "打",
+    "cost": 2
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "name": [
+      "大和"
+    ],
+    "card_id": [
+      "ST09-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【對方回合中】若自己的生命值卡在2張以下時，這張領航卡的力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征和之國",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "雨月天婦羅"
+    ],
+    "card_id": [
+      "ST09-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-002.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "烏爾蒂"
+    ],
+    "card_id": [
+      "ST09-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-003.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "海道"
+    ],
+    "card_id": [
+      "ST09-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-004.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】若自己的生命值卡在2張以下時，這張角色卡在對戰中不會遭到KO。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征四皇/百獸海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "光月御田"
+    ],
+    "card_id": [
+      "ST09-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-005.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【咚‼×1】這張角色卡獲得【雙重攻擊】。",
+      "(這張卡片造成的傷害為2)",
+      "【KO時】可以廢棄2張自己的手牌：將最多1張自己卡組上面的卡片加入生命值區上面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/光月家",
+    "attribute": "斬",
+    "cost": 7
+  },
+  {
+    "name": [
+      "光月桃之助"
+    ],
+    "card_id": [
+      "ST09-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-006.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/光月家",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "忍"
+    ],
+    "card_id": [
+      "ST09-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-007.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【防禦時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，在這場對戰中，力量值+4000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "霜月牛丸"
+    ],
+    "card_id": [
+      "ST09-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-008.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：使最多1張自己手牌中費用4以下黃色擁有《和之國》特徵的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "風月飯糰"
+    ],
+    "card_id": [
+      "ST09-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-009.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "波特卡斯・D・艾斯"
+    ],
+    "card_id": [
+      "ST09-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-010.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【每回合1次】若這張角色卡即將遭到KO時，替換成可將1張自己生命值區上面或下面的卡片放置到廢棄區。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/白鬍子海賊團",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST09-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-011.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "大和"
+    ],
+    "card_id": [
+      "ST09-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-012.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，到下一個我方回合開始前，力量值+2000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "大和"
+    ],
+    "card_id": [
+      "ST09-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-013.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "鳴鏑"
+    ],
+    "card_id": [
+      "ST09-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-014.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】若自己的生命值卡在2張以下時，最多1張對手的領航卡或角色卡，在這個回合，力量值-3000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征和之國",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "雷鳴八卦"
+    ],
+    "card_id": [
+      "ST09-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST09-015.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，若自己的生命值卡在2張以下時，將最多1張對手費用3以下的角色卡，以正面朝上加入持有者的生命值區上面或下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 大和【ST-09】",
+    "color": [
+      "黄"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征和之國",
+    "attribute": null,
+    "cost": 2
+  }
+]

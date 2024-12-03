@@ -1,152 +1,2113 @@
 [
-  "{\"name\": [\"\\u590f\\u6d1b\\u7279\\u30fb\\u8299\\u862d\\u4f69\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-056_p2.png?240831\", \"alternate\": true, \"power\": 1000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u6216\\u4e0b\\u9762\\u7684\\u5361\\u7247\\u52a0\\u5165\\u624b\\u724c\\uff1a\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"SP\\u5361\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81BIG MOM\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 1}",
-  "{\"name\": [\"\\u70cf\\u9b6f\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-021_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"SP\\u5361\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u7834\\u6212\\u50e7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u65af\\u6469\\u683c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-001.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u6d77\\u8ecd\\u300b\\u6216\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u5168\\u6578\\u529b\\u91cf\\u503c+1000\\u3002\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u81ea\\u5df1\\u529b\\u91cf\\u503c7000\\u4ee5\\u4e0a\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a2\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05/\\u7da0\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u65af\\u6469\\u683c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-001_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u6d77\\u8ecd\\u300b\\u6216\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u5168\\u6578\\u529b\\u91cf\\u503c+1000\\u3002\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u81ea\\u5df1\\u529b\\u91cf\\u503c7000\\u4ee5\\u4e0a\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a2\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05/\\u7da0\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u51f1\\u85a9\\u514b\\u52de\\u6069\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-002.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d72\\u3011\\u3010\\u653b\\u64ca\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u8cbb\\u75282\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u529b\\u91cf\\u503c4000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05/\\u85cd\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u79d1\\u5b66\\u8005/\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u51f1\\u85a9\\u514b\\u52de\\u6069\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-002_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d72\\u3011\\u3010\\u653b\\u64ca\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u8cbb\\u75282\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u529b\\u91cf\\u503c4000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05/\\u85cd\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u79d1\\u5b66\\u8005/\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u7802\\u7cd6\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-003.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u81ea\\u5df1\\u529b\\u91cf\\u503c6000\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\", \"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u81ea\\u5df1\\u767c\\u52d5\\u4e8b\\u4ef6\\u5361\\u6642\\uff0c\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05/\\u7d2b\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u7802\\u7cd6\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-003_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u81ea\\u5df1\\u529b\\u91cf\\u503c6000\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\", \"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u81ea\\u5df1\\u767c\\u52d5\\u4e8b\\u4ef6\\u5361\\u6642\\uff0c\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05/\\u7d2b\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u5a01\\u723e\\u53ef\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-004.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u9664\\u4e86\\u300c\\u5a01\\u723e\\u53ef\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 1}",
-  "{\"name\": [\"\\u9999\\u5409\\u58eb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-005.png?240831\", \"alternate\": false, \"power\": 3000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7684\\u529b\\u91cf\\u503c+3000\\u3002\", \"\\u3010KO\\u6642\\u3011\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u9999\\u5409\\u58eb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-005_p1.png?240831\", \"alternate\": true, \"power\": 3000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7684\\u529b\\u91cf\\u503c+3000\\u3002\", \"\\u3010KO\\u6642\\u3011\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u51f1\\u85a9\\u514b\\u52de\\u6069\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-006.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u300c\\u53f2\\u9081\\u5229\\u300d\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\uff0c\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u7684\\u300c\\u53f2\\u9081\\u5229\\u300d\\u767b\\u5834\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u79d1\\u5b66\\u8005/\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u7279\", \"cost\": 7}",
-  "{\"name\": [\"\\u51f1\\u85a9\\u5175\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-007.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u8cbb\\u75282\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u77e5\", \"cost\": 3}",
-  "{\"name\": [\"\\u53f2\\u8003\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-008.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6c92\\u6709\\u81ea\\u5df1\\u7684\\u300c\\u6d1b\\u514b\\u300d\\uff0c\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u7684\\u300c\\u6d1b\\u514b\\u300d\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u5c04\", \"cost\": 2}",
-  "{\"name\": [\"\\u53f2\\u9081\\u5229\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-009.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u9f90\\u514b\\u54c8\\u85a9\\u7279\\u300b\\u7279\\u5fb5\\u6642\\uff0c\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c-3000\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u751f\\u7269\\u5175\\u5668/\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u67e5\\u591a\\u7f85\\u65af\\u30fb\\u5e0c\\u683c\\u5229\\u683c\\u65af(\\u8910\\u9b0d\\u5b50)\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-010.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u653b\\u64ca\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u529b\\u91cf\\u503c6000\\u4ee5\\u4e0a\\u7684\\u89d2\\u8272\\u5361\\u57281\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c+1000\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8910\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"\\u591a\\u5c3c\\u591a\\u5c3c\\u30fb\\u55ac\\u5df4\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-011.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7684\\u529b\\u91cf\\u503c+2000\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u9f8d13\\u865f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-012.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u751f\\u7269\\u5175\\u5668/\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u5a1c\\u7f8e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-013.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 5}",
-  "{\"name\": [\"\\u4f5b\\u6717\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-014.png?240831\", \"alternate\": false, \"power\": 8000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u52d5\\u7269/\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 6}",
-  "{\"name\": [\"\\u8499\\u67e5\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-015.png?240831\", \"alternate\": false, \"power\": 3000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c-1000\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u6253\", \"cost\": 3}",
-  "{\"name\": [\"\\u83ab\\u5167\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-016.png?240831\", \"alternate\": false, \"power\": 3000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u9644\\u52a0\\u6700\\u591a2\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\u3002\\u4e4b\\u5f8c\\uff0c\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c-1000\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u83ab\\u5167\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-016_p1.png?240831\", \"alternate\": true, \"power\": 3000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u9644\\u52a0\\u6700\\u591a2\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\u3002\\u4e4b\\u5f8c\\uff0c\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c-1000\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u6d1b\\u514b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-017.png?240831\", \"alternate\": false, \"power\": 3000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6c92\\u6709\\u81ea\\u5df1\\u7684\\u300c\\u53f2\\u8003\\u57fa\\u300d\\uff0c\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u7684\\u300c\\u53f2\\u8003\\u57fa\\u300d\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": \"\\u5c04\", \"cost\": 2}",
-  "{\"name\": [\"\\u96ea\\u6d1e\\u5341\\u8349\\u7d19\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-018.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u53cd\\u64ca\\u3011\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u5834\\u5c0d\\u6230\\u4e2d\\uff0c\\u529b\\u91cf\\u503c+3000\\u3002\\u4e4b\\u5f8c\\uff0c\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c-2000\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 2}",
-  "{\"name\": [\"\\u795e\\u907f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-019.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u53ef\\u5c075\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u529b\\u91cf\\u503c8000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\", \"\\u3010\\u53cd\\u64ca\\u3011\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\uff0c\\u5728\\u9019\\u5834\\u5c0d\\u6230\\u4e2d\\uff0c\\u529b\\u91cf\\u503c+3000\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u56db\\u7687/\\u7d05\\u9aee\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u795e\\u907f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-019_p1.png?240831\", \"alternate\": true, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u53ef\\u5c075\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u529b\\u91cf\\u503c8000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\", \"\\u3010\\u53cd\\u64ca\\u3011\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\uff0c\\u5728\\u9019\\u5834\\u5c0d\\u6230\\u4e2d\\uff0c\\u529b\\u91cf\\u503c+3000\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u56db\\u7687/\\u7d05\\u9aee\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u6a61\\u81a0UFO\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-020.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c-4000\\u3002\\u4e4b\\u5f8c\\uff0c\\u82e5\\u81ea\\u5df1\\u7684\\u751f\\u547d\\u503c\\u5361\\u57282\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c+1000\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"UC\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": null, \"cost\": 2}",
-  "{\"name\": [\"\\u9f90\\u514b\\u54c8\\u85a9\\u7279\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-021.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u662f\\u300c\\u51f1\\u85a9\\u514b\\u52de\\u6069\\u300d\\u6642\\uff0c\\u9644\\u52a0\\u6700\\u591a1\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"C\"], \"card_type\": \"STAGE\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u6258\\u62c9\\u6cd5\\u723e\\u52a0\\u30fb\\u7f85\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-022.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u81ea\\u5df1\\u89d2\\u8272\\u5361\\u7684\\u8cbb\\u7528\\u5408\\u8a08\\u57285\\u4ee5\\u4e0a\\u6642\\uff0c\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\uff1a\\u516c\\u958b1\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\uff0c\\u82e5\\u8a72\\u5f35\\u5361\\u7247\\u662f\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u4e5f\\u53ef\\u767b\\u5834\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0/\\u9ec3\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u6258\\u62c9\\u6cd5\\u723e\\u52a0\\u30fb\\u7f85\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-022_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u81ea\\u5df1\\u89d2\\u8272\\u5361\\u7684\\u8cbb\\u7528\\u5408\\u8a08\\u57285\\u4ee5\\u4e0a\\u6642\\uff0c\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\uff1a\\u516c\\u958b1\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\uff0c\\u82e5\\u8a72\\u5f35\\u5361\\u7247\\u662f\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u4e5f\\u53ef\\u767b\\u5834\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0/\\u9ec3\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u4e00\\u7b11\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-023.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u6d77\\u8ecd\\u300b\\u7279\\u5fb5\\u6642\\uff0c\\u5c07\\u6700\\u591a2\\u5f35\\u5c0d\\u624b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u6d77\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 5}",
-  "{\"name\": [\"\\u827e\\u5fb7\\u83ef\\u30fb\\u7d10\\u84cb\\u7279\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-024.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u67092\\u5f35\\u4ee5\\u4e0a\\u81ea\\u5df1\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\\u4e4b\\u5f8c\\uff0cKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u4f11\\u606f\\u72c0\\u614b\\u8cbb\\u75283\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u56db\\u7687/\\u767d\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u827e\\u6d85\\u723e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-025.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u67092\\u5f35\\u4ee5\\u4e0a\\u81ea\\u5df1\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u62bd3\\u5f35\\u5361\\u7247\\uff0c\\u4e26\\u5ee2\\u68c42\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u7a7a\\u5cf6\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u9326\\u53f3\\u885b\\u9580\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-026.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u548c1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u529b\\u91cf\\u503c0\\u7684\\u300c\\u9326\\u53f3\\u885b\\u9580\\u300d\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u7f6e\\u5728\\u5361\\u7d44\\u4e0b\\u9762\\uff1a\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u8cbb\\u75286\\u7684\\u300c\\u9326\\u53f3\\u885b\\u9580\\u300d\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u548c\\u4e4b\\u570b/\\u7d05\\u9798\\u4e5d\\u4eba\\u773e\", \"attribute\": \"\\u65ac\", \"cost\": 2}",
-  "{\"name\": [\"\\u9326\\u53f3\\u885b\\u9580\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-027.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u548c1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u529b\\u91cf\\u503c1000\\u7684\\u300c\\u9326\\u53f3\\u885b\\u9580\\u300d\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u7f6e\\u5728\\u5361\\u7d44\\u4e0b\\u9762\\uff1a\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u8cbb\\u75286\\u7684\\u300c\\u9326\\u53f3\\u885b\\u9580\\u300d\\u767b\\u5834\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u548c\\u4e4b\\u570b/\\u7d05\\u9798\\u4e5d\\u4eba\\u773e\", \"attribute\": \"\\u65ac\", \"cost\": 2}",
-  "{\"name\": [\"\\u5149\\u6708\\u6843\\u4e4b\\u52a9\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-028.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c072\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3001\\u4e26\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\uff1a\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a2\\u5f35\\u64c1\\u6709\\u300a\\u7d05\\u9798\\u4e5d\\u4eba\\u773e\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u548c\\u4e4b\\u570b/\\u5149\\u6708\\u5bb6\", \"attribute\": \"\\u7279\", \"cost\": 1}",
-  "{\"name\": [\"\\u55ac\\u62c9\\u53ef\\u723e\\u30fb\\u5bc6\\u4f5b\\u683c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-029.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u67092\\u5f35\\u4ee5\\u4e0a\\u81ea\\u5df1\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u4f11\\u606f\\u72c0\\u614b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77\", \"attribute\": \"\\u65ac\", \"cost\": 5}",
-  "{\"name\": [\"\\u65af\\u6469\\u683c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-030.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"\\u3010\\u6d88\\u5931\\u3011(\\u82e5\\u9019\\u5f35\\u5361\\u7247\\u9020\\u6210\\u50b7\\u5bb3\\u6642\\uff0c\\u89f8\\u767c\\u5668\\u4e0d\\u6703\\u767c\\u52d5\\u4e14\\u8a72\\u5f35\\u5361\\u7247\\u5373\\u653e\\u7f6e\\u5230\\u5ee2\\u68c4\\u5340)\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\\u4e4b\\u5f8c\\uff0c\\u81ea\\u5df1\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u4f7f\\u7528\\u89d2\\u8272\\u5361\\u7684\\u6548\\u679c\\u7121\\u6cd5\\u5c07\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 5}",
-  "{\"name\": [\"\\u65af\\u6469\\u683c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-030_p1.png?240831\", \"alternate\": true, \"power\": 7000, \"effect\": [\"\\u3010\\u6d88\\u5931\\u3011(\\u82e5\\u9019\\u5f35\\u5361\\u7247\\u9020\\u6210\\u50b7\\u5bb3\\u6642\\uff0c\\u89f8\\u767c\\u5668\\u4e0d\\u6703\\u767c\\u52d5\\u4e14\\u8a72\\u5f35\\u5361\\u7247\\u5373\\u653e\\u7f6e\\u5230\\u5ee2\\u68c4\\u5340)\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\\u4e4b\\u5f8c\\uff0c\\u81ea\\u5df1\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u4f7f\\u7528\\u89d2\\u8272\\u5361\\u7684\\u6548\\u679c\\u7121\\u6cd5\\u5c07\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 5}",
-  "{\"name\": [\"\\u6230\\u570b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-031.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u6d77\\u8ecd\", \"attribute\": \"\\u77e5\", \"cost\": 5}",
-  "{\"name\": [\"\\u9054\\u7d72\\u742a\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-032.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u9664\\u4e86\\u300c\\u9054\\u7d72\\u742a\\u300d\\u4ee5\\u5916\\u81ea\\u5df1\\u7da0\\u8272\\u7684\\u89d2\\u8272\\u5361\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u5373\\u5c07\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u6210\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u9054\\u7d72\\u742a\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-032_p1.png?240831\", \"alternate\": true, \"power\": 4000, \"effect\": [\"\\u9664\\u4e86\\u300c\\u9054\\u7d72\\u742a\\u300d\\u4ee5\\u5916\\u81ea\\u5df1\\u7da0\\u8272\\u7684\\u89d2\\u8272\\u5361\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u5373\\u5c07\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u6210\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u6d77\\u8ecd\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u5a1c\\u7f8e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-033.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u67092\\u5f35\\u4ee5\\u4e0a\\u81ea\\u5df1\\u4f11\\u606f\\u72c0\\u614b\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\uff0c\\u5728\\u4e0b\\u4e00\\u500b\\u5c0d\\u624b\\u7684\\u91cd\\u6574\\u968e\\u6bb5\\u7121\\u6cd5\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u4f5b\\u6717\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-034.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u5728\\u5c0d\\u6230\\u4e2d\\u906d\\u5230KO\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u6210\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u52a0\\u5165\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u5e03\\u9b6f\\u514b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-035.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010KO\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u9818\\u822a\\u5361\\u6216\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"\\u57f9\\u7f85\\u5a1c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-036.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u89d2\\u8272\\u5361\\u56e0\\u81ea\\u5df1\\u7684\\u6548\\u679c\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u897f\\u51f1\\u963f\\u723e\\u738b\\u570b/\\u6050\\u6016\\u4e09\\u6845\\u5e06\\u8239\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u8389\\u59c6\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-037.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u5373\\u5c07\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u62101\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY\", \"attribute\": \"\\u77e5\", \"cost\": 1}",
-  "{\"name\": [\"\\u8389\\u59c6\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-037_p1.png?240831\", \"alternate\": true, \"power\": 0, \"effect\": [\"\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u5373\\u5c07\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u62101\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY\", \"attribute\": \"\\u77e5\", \"cost\": 1}",
-  "{\"name\": [\"\\u7f85\\u7f85\\u4e9e\\u30fb\\u7d22\\u9686\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-038.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u82e5\\u5834\\u4e0a\\u67092\\u5f35\\u4ee5\\u4e0a\\u81ea\\u5df1\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7684\\u529b\\u91cf\\u503c+2000\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u65ac\", \"cost\": 5}",
-  "{\"name\": [\"\\u6a61\\u81a0\\u9f8d\\u706b\\u708e\\u69cd\\u6372\\u661f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-039.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u6642\\uff0c\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a2\\u5f35\\u64c1\\u6709\\u300aODYSSEY\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"UC\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81ODYSSEY/\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": null, \"cost\": 3}",
-  "{\"name\": [\"\\u5f31\\u8005\\u9023\\u6b7b\\u6cd5\\u90fd\\u4e0d\\u80fd\\u5920\\u9078\\u64c7\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-040.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011/\\u3010\\u53cd\\u64ca\\u3011KO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u4f11\\u606f\\u72c0\\u614b\\u8cbb\\u75287\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"C\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u9f90\\u514b\\u54c8\\u85a9\\u7279/\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 5}",
-  "{\"name\": [\"\\u9ad8\\u983b\\u624b\\u8853\\u5200\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-041.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75286\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\\u4e4b\\u5f8c\\uff0cKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u4f11\\u606f\\u72c0\\u614b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7da0\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 4}",
-  "{\"name\": [\"\\u9a19\\u4eba\\u5e03\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-042.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u81ea\\u5df1\\u8cbb\\u75282\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u5168\\u6578\\u8cbb\\u7528+1\\u3002\", \"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u906d\\u5230KO\\u6642\\u3001\\u6216\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u767c\\u52d5\\u3002\\u82e5\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u57285\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd/\\u9ed1\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u5c04\", \"cost\": 4}",
-  "{\"name\": [\"\\u9a19\\u4eba\\u5e03\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-042_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u81ea\\u5df1\\u8cbb\\u75282\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u5168\\u6578\\u8cbb\\u7528+1\\u3002\", \"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u906d\\u5230KO\\u6642\\u3001\\u6216\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u767c\\u52d5\\u3002\\u82e5\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u57285\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd/\\u9ed1\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u5c04\", \"cost\": 4}",
-  "{\"name\": [\"\\u54de\\u897f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-043.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1a\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u89d2\\u8272\\u5361\\u300c\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\\u300d\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u7372\\u5f97\\u3010\\u6d88\\u5931\\u3011\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u52d5\\u7269/\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u6253\", \"cost\": 2}",
-  "{\"name\": [\"\\u5580\\u5e03\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-044.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75281\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9813\\u9054\\u5854\\u65cf/\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u65ac\", \"cost\": 1}",
-  "{\"name\": [\"\\u5361\\u6587\\u8fea\\u8a31\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-045.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u653b\\u64ca\\u6642\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u62bd2\\u5f35\\u5361\\u7247\\uff0c\\u4e26\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8c8c\\u7f8e\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u5361\\u6587\\u8fea\\u8a31\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-045_p1.png?240831\", \"alternate\": true, \"power\": 6000, \"effect\": [\"\\u3010\\u653b\\u64ca\\u6642\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u62bd2\\u5f35\\u5361\\u7247\\uff0c\\u4e26\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8c8c\\u7f8e\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u5c45\\u9b6f\\u58eb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-046.png?240831\", \"alternate\": false, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u5c45\\u9b6f\\u58eb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-046_p1.png?240831\", \"alternate\": true, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u53ef\\u4e9e\\u62c9\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-047.png?240831\", \"alternate\": false, \"power\": 3000, \"effect\": [\"\\u3010\\u653b\\u64ca\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u8cbb\\u75283\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u9769\\u547d\\u8ecd\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\uff1a\\u9019\\u5f35\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c+3000\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u9769\\u547d\\u8ecd\", \"attribute\": \"\\u6253\", \"cost\": 2}",
-  "{\"name\": [\"\\u96dc\\u83dc\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-048.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75281\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u516b\\u5bf6\\u6c34\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"\\u85a9\\u6ce2\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-049.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u9664\\u4e86\\u300c\\u85a9\\u6ce2\\u300d\\u4ee5\\u5916\\u81ea\\u5df1\\u539f\\u672c\\u8cbb\\u75287\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u5373\\u5c07\\u96e2\\u958b\\u5834\\u4e0a\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u6210\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u9769\\u547d\\u8ecd\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u54c8\\u723e\\u6c40\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-050.png?240831\", \"alternate\": false, \"power\": 9000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5de8\\u4eba\\u65cf/\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u65b0\\u5de8\\u5175\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 7}",
-  "{\"name\": [\"\\u54c8\\u514b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-051.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u3010\\u653b\\u64ca\\u6642\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b3\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u64c1\\u6709\\u300a\\u9769\\u547d\\u8ecd\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9b5a\\u4eba\\u65cf/\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u9769\\u547d\\u8ecd\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u5df4\\u7279\\u6d1b\\u99ac\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-052.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u8cbb\\u75281\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u6301\\u6709\\u8005\\u7684\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u5df4\\u7279\\u4ff1\\u6a02\\u90e8\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u84fd\\u5b89\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-053.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u82e5\\u5834\\u4e0a\\u6709\\u9664\\u4e86\\u300c\\u84fd\\u5b89\\u300d\\u4ee5\\u5916\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u9813\\u9054\\u5854\\u65cf\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7372\\u5f97\\u3010\\u9632\\u79a6\\u3011\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9813\\u9054\\u5854\\u65cf/\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u65ac\", \"cost\": 1}",
-  "{\"name\": [\"\\u5e03\\u9b6f\\u57fa\\u5229\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-054.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u6253\", \"cost\": 3}",
-  "{\"name\": [\"\\u99ac\\u53ef\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-055.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010KO\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75284\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u767d\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u8513\\u96ea\\u8389\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-056.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3001\\u4e26\\u5c071\\u5f35\\u81ea\\u5df1\\u8cbb\\u75284\\u4ee5\\u4e0a\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75284\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9813\\u9054\\u5854\\u65cf/\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u96f7\\u5967\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-057.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u662f\\u300c\\u9a19\\u4eba\\u5e03\\u300d\\u6642\\uff0c\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a2\\u5f35\\u9664\\u4e86\\u300c\\u96f7\\u5967\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\uff0c\\u4e26\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9813\\u9054\\u5854\\u65cf/\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u6253\", \"cost\": 1}",
-  "{\"name\": [\"\\u857e\\u8c9d\\u5361\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-058.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u8cbb\\u75288\\u4ee5\\u4e0a\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\\u4e4b\\u5f8c\\uff0c\\u516c\\u958b\\u6700\\u591a2\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u9664\\u4e86\\u300c\\u857e\\u8c9d\\u5361\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u8cbb\\u75287\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\\u4f7f\\u516c\\u958b\\u5361\\u7247\\u7684\\u5176\\u4e2d1\\u5f35\\u767b\\u5834\\uff0c\\u82e5\\u53e61\\u5f35\\u70ba\\u8cbb\\u75284\\u4ee5\\u4e0b\\u6642\\u4ee5\\u4f11\\u606f\\u72c0\\u614b\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u857e\\u8c9d\\u5361\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-058_p1.png?240831\", \"alternate\": true, \"power\": 4000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u8cbb\\u75288\\u4ee5\\u4e0a\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\\u4e4b\\u5f8c\\uff0c\\u516c\\u958b\\u6700\\u591a2\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u9664\\u4e86\\u300c\\u857e\\u8c9d\\u5361\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u8cbb\\u75287\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\\u4f7f\\u516c\\u958b\\u5361\\u7247\\u7684\\u5176\\u4e2d1\\u5f35\\u767b\\u5834\\uff0c\\u82e5\\u53e61\\u5f35\\u70ba\\u8cbb\\u75284\\u4ee5\\u4e0b\\u6642\\u4ee5\\u4f11\\u606f\\u72c0\\u614b\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u8b93\\u6211\\u2026\\u5e36\\u2026\\u9818\\u2026\\u4f60\\u5011\\u2026!!!\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-059.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u9632\\u8b77\\u7f69\\u69cd\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-060.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u529b\\u91cf\\u503c6000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u6301\\u6709\\u8005\\u7684\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"C\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u5df4\\u7279\\u4ff1\\u6a02\\u90e8\", \"attribute\": null, \"cost\": 5}",
-  "{\"name\": [\"\\u5fc5\\u6bba!!\\u9060\\u8ddd\\u96e2\\u300c\\u84d1\\u8863\\u87f2\\u661f\\u300d\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-061.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u62bd1\\u5f35\\u5361\\u7247\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75282\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"UC\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": null, \"cost\": 3}",
-  "{\"name\": [\"\\u7dad\\u723e\\u8389\\u7279\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-062.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011\", \"\\u3010KO\\u6642\\u3011\\u549a\\u203c-1\\uff1a\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u7d2b\\u8272\\u7684\\u4e8b\\u4ef6\\u5361\\uff0c\\u52a0\\u5165\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u8cd3\\u4ec0\\u83ab\\u514b\\u30fb\\u9999\\u5409\\u58eb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-063.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u5305\\u542b\\u300e\\u6770\\u723e\\u99ac\\u300f\\u7279\\u5fb5\\u6642\\uff0c\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u64c1\\u6709\\u5305\\u542b\\u300e\\u6770\\u723e\\u99ac\\u300f\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u6770\\u723e\\u99ac\\u738b\\u570b/\\u8cd3\\u4ec0\\u83ab\\u514b\\u5bb6\", \"attribute\": \"\\u6253\", \"cost\": 1}",
-  "{\"name\": [\"\\u8907\\u88fd\\u5175\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-064.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u6770\\u723e\\u99ac\\u738b\\u570b\", \"attribute\": \"\\u5c04\", \"cost\": 2}",
-  "{\"name\": [\"\\u7802\\u7cd6\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-065.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff0c\\u4e26\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 1}",
-  "{\"name\": [\"\\u55ac\\u83c8\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-066.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u5c0d\\u65b9\\u653b\\u64ca\\u6642\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u53ef\\u5c072\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75284\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u7c89\\u7d05\\u5148\\u751f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-067.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u549a\\u203c-1(\\u53ef\\u5c07\\u81ea\\u5df1\\u5834\\u4e0a\\u7684\\u549a\\u203c\\u5361\\u4f9d\\u6307\\u5b9a\\u7684\\u6578\\u91cf\\u653e\\u56de\\u549a\\u203c\\u5361\\u7d44)\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7d2b\\u8272\\u7684\\u4e8b\\u4ef6\\u5361\\uff0c\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u7c89\\u7d05\\u5148\\u751f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-067_p1.png?240831\", \"alternate\": true, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u549a\\u203c-1(\\u53ef\\u5c07\\u81ea\\u5df1\\u5834\\u4e0a\\u7684\\u549a\\u203c\\u5361\\u4f9d\\u6307\\u5b9a\\u7684\\u6578\\u91cf\\u653e\\u56de\\u549a\\u203c\\u5361\\u7d44)\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7d2b\\u8272\\u7684\\u4e8b\\u4ef6\\u5361\\uff0c\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5e1d\\u96c5\\u66fc\\u9435\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-068.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 5}",
-  "{\"name\": [\"\\u9b25\\u9b5a\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-069.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u3010\\u653b\\u64ca\\u6642\\u3011\\u549a\\u203c-1(\\u53ef\\u5c07\\u81ea\\u5df1\\u5834\\u4e0a\\u7684\\u549a\\u203c\\u5361\\u4f9d\\u6307\\u5b9a\\u7684\\u6578\\u91cf\\u653e\\u56de\\u549a\\u203c\\u5361\\u7d44)\\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75281\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u52d5\\u7269/\\u591a\\u96f7\\u65af\\u7f85\\u85a9\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u6258\\u96f7\\u6ce2\\u723e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-070.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5728\\u4e0b\\u4e00\\u500b\\u5c0d\\u624b\\u56de\\u5408\\u7d50\\u675f\\u524d\\uff0c\\u81ea\\u5df1\\u539f\\u672c\\u529b\\u91cf\\u503c1000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u5168\\u6578\\uff0c\\u4e0d\\u6703\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u800c\\u906d\\u5230KO\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u5510\\u5409\\u8a36\\u5fb7\\u30fb\\u591a\\u4f5b\\u6717\\u660e\\u54e5\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-071.png?240831\", \"alternate\": false, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u549a\\u203c-1\\uff1a\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u767b\\u5834\\u3002\", \"\\u3010\\u5c0d\\u65b9\\u653b\\u64ca\\u6642\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 8}",
-  "{\"name\": [\"\\u5510\\u5409\\u8a36\\u5fb7\\u30fb\\u591a\\u4f5b\\u6717\\u660e\\u54e5\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-071_p1.png?240831\", \"alternate\": true, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u549a\\u203c-1\\uff1a\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u767b\\u5834\\u3002\", \"\\u3010\\u5c0d\\u65b9\\u653b\\u64ca\\u6642\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 8}",
-  "{\"name\": [\"\\u5510\\u5409\\u8a36\\u5fb7\\u30fb\\u7f85\\u5e0c\\u5357\\u7279\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-072.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u4ee5\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u7684\\u4e8b\\u4ef6\\u5361\\uff1a\\u62bd2\\u5f35\\u5361\\u7247\\u3002\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u5834\\u4e0a\\u67097\\u5f35\\u4ee5\\u4e0a\\u549a\\u203c\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a2\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u6d77\\u8ecd/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5510\\u5409\\u8a36\\u5fb7\\u30fb\\u7f85\\u5e0c\\u5357\\u7279\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-072_p1.png?240831\", \"alternate\": true, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u4ee5\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u7684\\u4e8b\\u4ef6\\u5361\\uff1a\\u62bd2\\u5f35\\u5361\\u7247\\u3002\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u5834\\u4e0a\\u67097\\u5f35\\u4ee5\\u4e0a\\u549a\\u203c\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a2\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u6d77\\u8ecd/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u6c34\\u725b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-073.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u76ae\\u5361\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-074.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u906d\\u5230KO\\u6642\\uff0c\\u53ef\\u4ee5\\u66ff\\u63db\\u6210\\u5c072\\u5f35\\u81ea\\u5df1\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u5f17\\u514b\\u897f\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-075.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\uff1a\\u82e5\\u81ea\\u5df1\\u5834\\u4e0a\\u7684\\u549a\\u203c\\u5361\\u5c11\\u65bc\\u7b49\\u65bc\\u5c0d\\u624b\\u5834\\u4e0a\\u7684\\u549a\\u203c\\u5361\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5f17\\u514b\\u897f\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"BABY5\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-076.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u4ee5\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\uff1a\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u6642\\uff0c\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u8c9d\\u62c9\\u5bc6\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-077.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011(\\u5c0d\\u624b\\u653b\\u64ca\\u5f8c\\uff0c\\u5c07\\u9019\\u5f35\\u5361\\u7247\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u5373\\u53ef\\u4f7f\\u653b\\u64ca\\u7684\\u5c0d\\u8c61\\u63db\\u6210\\u9019\\u5f35\\u5361\\u7247)\", \"\\u3010\\u9632\\u79a6\\u6642\\u3011\\u53ef\\u5c072\\u5f35\\u81ea\\u5df1\\u7684\\u549a\\u203c\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 3}",
-  "{\"name\": [\"\\u6211\\u7d55\\u5c0d\\u4e0d\\u6703\\u653e\\u904e\\u5632\\u7b11\\u6211\\u5bb6\\u4eba\\u7684\\u50a2\\u4f19\\u2026!!!\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-078.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011/\\u3010\\u53cd\\u64ca\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b3\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u9664\\u4e86\\u300c\\u6211\\u7d55\\u5c0d\\u4e0d\\u6703\\u653e\\u904e\\u5632\\u7b11\\u6211\\u5bb6\\u4eba\\u7684\\u50a2\\u4f19\\u2026!!!\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u795e\\u8a85\\u6bba\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-079.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011KO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\\u4e4b\\u5f8c\\uff0c\\u5f9e\\u549a\\u203c\\u5361\\u7d44\\u8ffd\\u52a0\\u6700\\u591a1\\u5f35\\u6d3b\\u52d5\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"UC\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77/\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 5}",
-  "{\"name\": [\"\\u5c0f\\u718a\\u73a9\\u5177\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-080.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u53cd\\u64ca\\u3011\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u5834\\u5c0d\\u6230\\u4e2d\\uff0c\\u529b\\u91cf\\u503c+4000\\u3002\\u4e4b\\u5f8c\\uff0c\\u82e5\\u81ea\\u5df1\\u7684\\u5834\\u4e0a\\u67097\\u5f35\\u4ee5\\u4e0a\\u549a\\u203c\\u5361\\u3001\\u800c\\u4e14\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u57285\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"C\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u5510\\u5409\\u8a36\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 3}",
-  "{\"name\": [\"\\u9a19\\u4eba\\u5e03\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-081.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75282\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c072\\u5f35\\u81ea\\u5df1\\u5361\\u7d44\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u5c04\", \"cost\": 4}",
-  "{\"name\": [\"\\u5eab\\u5c71\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-082.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u4e0d\\u6703\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u800c\\u96e2\\u958b\\u5834\\u4e0a\\u3002\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\uff1a\\u62bd1\\u5f35\\u5361\\u7247\\u3002\\u4e4b\\u5f8c\\uff0c\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u9664\\u4e86\\u300c\\u5eab\\u5c71\\u300d\\u4ee5\\u5916\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u767b\\u5834\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u524d\\u6d77\\u8ecd/\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5eab\\u5c71\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-082_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u4e0d\\u6703\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u800c\\u96e2\\u958b\\u5834\\u4e0a\\u3002\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\uff1a\\u62bd1\\u5f35\\u5361\\u7247\\u3002\\u4e4b\\u5f8c\\uff0c\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u9664\\u4e86\\u300c\\u5eab\\u5c71\\u300d\\u4ee5\\u5916\\u8cbb\\u75285\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u767b\\u5834\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u524d\\u6d77\\u8ecd/\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5149\\u6708\\u6843\\u4e4b\\u52a9\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-083.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u548c1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1a\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u8cbb\\u7528-2\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u548c\\u4e4b\\u570b/\\u5149\\u6708\\u5bb6\", \"attribute\": \"\\u65ac\", \"cost\": 2}",
-  "{\"name\": [\"\\u85a9\\u65b9\\u30fb\\u70cf\\u723e\\u592b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-084.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5de8\\u4eba\\u65cf/\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5409\\u672d\\u58eb\\u30fb\\u4f2f\\u5409\\u65af\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-085.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u82e5\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u67098\\u5f35\\u4ee5\\u4e0a\\u5361\\u7247\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7372\\u5f97\\u3010\\u901f\\u653b\\u3011\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 5}",
-  "{\"name\": [\"\\u77e2\\u9f8d\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-086.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u5c0d\\u65b9\\u56de\\u5408\\u4e2d\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7684\\u529b\\u91cf\\u503c+2000\\u3002\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\uff0c\\u800c\\u4e14\\u662f\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u767b\\u5834\\u7684\\u56de\\u5408\\u6642\\uff0cKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u539f\\u672c\\u8cbb\\u75283\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u591a\\u5c3c\\u591a\\u5c3c\\u30fb\\u55ac\\u5df4\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-087.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u548c1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1a\\u82e5\\u5c0d\\u624b\\u7684\\u624b\\u724c\\u67095\\u5f35\\u4ee5\\u4e0a\\u6642\\uff0c\\u5c0d\\u624b\\u5ee2\\u68c41\\u5f35\\u81ea\\u8eab\\u7684\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c072\\u5f35\\u81ea\\u5df1\\u5361\\u7d44\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u52d5\\u7269/\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 2}",
-  "{\"name\": [\"\\u5a1c\\u7f8e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-088.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u548c1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1a\\u62bd1\\u5f35\\u5361\\u7247\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c072\\u5f35\\u81ea\\u5df1\\u5361\\u7d44\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u7279\", \"cost\": 2}",
-  "{\"name\": [\"\\u59ae\\u53ef\\u30fb\\u7f85\\u8cd3\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-089.png?240831\", \"alternate\": false, \"power\": 8000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 6}",
-  "{\"name\": [\"\\u4f5b\\u6717\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-090.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011\", \"\\u3010KO\\u6642\\u3011\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u8cbb\\u75283\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4ee5\\u4f11\\u606f\\u72c0\\u614b\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u4f5b\\u6717\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-090_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011\", \"\\u3010KO\\u6642\\u3011\\u4f7f\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u8cbb\\u75283\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4ee5\\u4f11\\u606f\\u72c0\\u614b\\u767b\\u5834\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 4}",
-  "{\"name\": [\"\\u5e03\\u9b6f\\u514b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-091.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u548c1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75281\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c072\\u5f35\\u81ea\\u5df1\\u5361\\u7d44\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"\\u57f9\\u7f85\\u5a1c\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-092.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u53ef\\u5c072\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u64c1\\u6709\\u300a\\u6050\\u6016\\u4e09\\u6845\\u5e06\\u8239\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u7f6e\\u5728\\u5361\\u7d44\\u4e0b\\u9762\\uff1a\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u9664\\u4e86\\u300c\\u57f9\\u7f85\\u5a1c\\u300d\\u4ee5\\u5916\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c+2000\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u6050\\u6016\\u4e09\\u6845\\u5e06\\u8239\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u8377\\u654f\\u8056\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-093.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\uff1a\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u9ed1\\u8272\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u4e0b\\u4e00\\u500b\\u5c0d\\u624b\\u56de\\u5408\\u7d50\\u675f\\u524d\\uff0c\\u8cbb\\u7528+3\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u5929\\u9f8d\\u4eba\", \"attribute\": \"\\u77e5\", \"cost\": 1}",
-  "{\"name\": [\"\\u9f8d\\u99ac\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-094.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7372\\u5f97\\u3010\\u96d9\\u91cd\\u653b\\u64ca\\u3011\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u548c\\u4e4b\\u570b/\\u6050\\u6016\\u4e09\\u6845\\u5e06\\u8239\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u7f85\\u7f85\\u4e9e\\u30fb\\u7d22\\u9686\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-095.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u6216\\u821e\\u53f0\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b \\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75284\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c072\\u5f35\\u81ea\\u5df1\\u5361\\u7d44\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u5df2\\u7d93\\u4e0d\\u9700\\u8981\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77\\u4e86\\u2026!!!\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-096.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011KO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75288\\u4ee5\\u4e0b\\u64c1\\u6709\\u300a\\u738b\\u4e0b\\u4e03\\u6b66\\u6d77\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"UC\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u6d77\\u8ecd\", \"attribute\": null, \"cost\": 4}",
-  "{\"name\": [\"\\u6a61\\u81a0\\u7280\\u69b4\\u5f48\\u7832\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-097.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u591a\\u96f7\\u65af\\u7f85\\u85a9\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c+2000\\u3002\\u4e4b\\u5f8c\\uff0c\\u82e5\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u670910\\u5f35\\u4ee5\\u4e0a\\u5361\\u7247\\u6642\\uff0c\\u8a72\\u5f35\\u5361\\u7247\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u7372\\u5f97\\u3010\\u6d88\\u5931\\u3011\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"C\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u89e3\\u653e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-098.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u89d2\\u8272\\u5361\\u6bd4\\u5c0d\\u624b\\u7684\\u89d2\\u8272\\u5361\\u5c112\\u5f35\\u4ee5\\u4e0a\\u6642\\uff0cKO\\u5c0d\\u624b\\u6700\\u591a1\\u5f35\\u539f\\u672c\\u8cbb\\u75286\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u548c\\u6700\\u591a1\\u5f35\\u539f\\u672c\\u8cbb\\u75284\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u9ed1\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 6}",
-  "{\"name\": [\"\\u5c24\\u65af\\u5854\\u65af\\u30fb\\u57fa\\u5fb7\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-099.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u7ffb\\u6210\\u6b63\\u9762\\u671d\\u4e0a\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u8cbb\\u75283\\u81f38\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3001\\u4e14\\u8a72\\u5f35\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u4e0b\\u4e00\\u500b\\u5c0d\\u624b\\u56de\\u5408\\u7d50\\u675f\\u524d\\uff0c\\u7372\\u5f97\\u3010\\u9632\\u79a6\\u3011\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5c24\\u65af\\u5854\\u65af\\u30fb\\u57fa\\u5fb7\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-099_p1.png?240831\", \"alternate\": true, \"power\": 5000, \"effect\": [\"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u7ffb\\u6210\\u6b63\\u9762\\u671d\\u4e0a\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u8cbb\\u75283\\u81f38\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3001\\u4e14\\u8a72\\u5f35\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u4e0b\\u4e00\\u500b\\u5c0d\\u624b\\u56de\\u5408\\u7d50\\u675f\\u524d\\uff0c\\u7372\\u5f97\\u3010\\u9632\\u79a6\\u3011\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"L\"], \"card_type\": \"LEADER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u96f7\\u96fb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-100.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u549a\\u203c\\u00d71\\u3011\\u3010\\u653b\\u64ca\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u7528\\u6578\\u503c\\u5728\\u96d9\\u65b9\\u751f\\u547d\\u503c\\u5361\\u5408\\u8a08\\u5f35\\u6578\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9769\\u547d\\u8ecd\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u70cf\\u9b6f\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-101.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u7834\\u6212\\u50e7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u6253\", \"cost\": 5}",
-  "{\"name\": [\"\\u827e\\u6ce2\\u5229\\u6b50\\u30fb\\u4f0a\\u5a03\\u67ef\\u592b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-102.png?240831\", \"alternate\": false, \"power\": 6000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u3010\\u6bcf\\u56de\\u54081\\u6b21\\u3011\\u6700\\u591a3\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u9769\\u547d\\u8ecd\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u500b\\u56de\\u5408\\uff0c\\u529b\\u91cf\\u503c+1000\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u52a0\\u5165\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u9769\\u547d\\u8ecd\", \"attribute\": \"\\u7279\", \"cost\": 5}",
-  "{\"name\": [\"\\u5361\\u6ce2\\u6d85\\u30fb\\u57f9\\u57fa\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-103.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u6216\\u4e0b\\u9762\\u7684\\u5361\\u7247\\u52a0\\u5165\\u624b\\u724c\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4ee5\\u6b63\\u9762\\u671d\\u4e0a\\u52a0\\u5165\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u706b\\u6230\\u8eca\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u5c04\", \"cost\": 1}",
-  "{\"name\": [\"\\u683c\\u5217\\u4f5b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-104.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010\\u549a!!\\u00d71\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u3001\\u5c0d\\u624b\\u7684\\u751f\\u547d\\u503c\\u5361\\u57283\\u5f35\\u4ee5\\u4e0a\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u5728\\u5c0d\\u6230\\u4e2d\\u4e0d\\u6703\\u906d\\u5230KO\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u683c\\u5217\\u4f5b\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 4}",
-  "{\"name\": [\"\\u5361\\u6587\\u8fea\\u8a31\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-105.png?240831\", \"alternate\": false, \"power\": 8000, \"effect\": [\"-\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u8c8c\\u7f8e\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 6}",
-  "{\"name\": [\"\\u5947\\u62c9\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-106.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010KO\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u6642\\uff0c\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b3\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u6216\\u300a\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"\\u73e0\\u5bf6\\u30fb\\u6ce2\\u59ae\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-107.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u9632\\u79a6\\u3011\", \"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c071\\u5f35\\u81ea\\u5df1\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u6216\\u4e0b\\u9762\\u7684\\u5361\\u7247\\u52a0\\u5165\\u624b\\u724c\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u8cbb\\u75285\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4ee5\\u6b63\\u9762\\u671d\\u4e0a\\u52a0\\u5165\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u6ce2\\u59ae\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u522e\\u76e4\\u4eba\\u30fb\\u4e9e\\u666e\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-108.png?240831\", \"alternate\": false, \"power\": 1000, \"effect\": [\"\\u82e5\\u5834\\u4e0a\\u6709\\u9664\\u4e86\\u300c\\u522e\\u76e4\\u4eba\\u30fb\\u4e9e\\u666e\\u300d\\u4ee5\\u5916\\u81ea\\u5df1\\u9ec3\\u8272\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7372\\u5f97\\u3010\\u9632\\u79a6\\u3011\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/ONAIR\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u5c04\", \"cost\": 1}",
-  "{\"name\": [\"\\u5df4\\u5409\\u9b6f\\u30fb\\u970d\\u91d1\\u65af\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-109.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u3010KO\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u970d\\u91d1\\u65af\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 4}",
-  "{\"name\": [\"\\u5e0c\\u7279\\uff06\\u74e6\\u8036\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-110.png?240831\", \"alternate\": false, \"power\": 4000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u7528\\u6578\\u503c\\u5728\\u5c0d\\u624b\\u7684\\u751f\\u547d\\u503c\\u5361\\u5f35\\u6578\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac/\\u7279\", \"cost\": 3}",
-  "{\"name\": [\"\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-111.png?240831\", \"alternate\": false, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u9664\\u4e86\\u300c\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 1}",
-  "{\"name\": [\"\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-111_p1.png?240831\", \"alternate\": true, \"power\": 2000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u5f9e\\u81ea\\u5df1\\u7684\\u5361\\u7d44\\u4e0a\\u9762\\u67e5\\u770b5\\u5f35\\u5361\\u7247\\uff0c\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u9664\\u4e86\\u300c\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\\u300d\\u4ee5\\u5916\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u52a0\\u5165\\u624b\\u724c\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u5176\\u9918\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u5230\\u5361\\u7d44\\u4e0b\\u9762\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"R\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 1}",
-  "{\"name\": [\"\\u5c24\\u65af\\u5854\\u65af\\u30fb\\u57fa\\u5fb7\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-112.png?240831\", \"alternate\": false, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u82e5\\u5c0d\\u624b\\u7684\\u751f\\u547d\\u503c\\u5361\\u57282\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\uff0c\\u4e26\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 8}",
-  "{\"name\": [\"\\u5c24\\u65af\\u5854\\u65af\\u30fb\\u57fa\\u5fb7\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-112_p1.png?240831\", \"alternate\": true, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\u653e\\u7f6e\\u5728\\u5ee2\\u68c4\\u5340\\u3002\", \"\\u3010\\u6211\\u65b9\\u56de\\u5408\\u7d50\\u675f\\u6642\\u3011\\u82e5\\u5c0d\\u624b\\u7684\\u751f\\u547d\\u503c\\u5361\\u57282\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\uff0c\\u4e26\\u5ee2\\u68c41\\u5f35\\u81ea\\u5df1\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"SR\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 8}",
-  "{\"name\": [\"\\u7f85\\u7f85\\u4e9e\\u30fb\\u7d22\\u9686\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-113.png?240831\", \"alternate\": false, \"power\": 5000, \"effect\": [\"\\u82e5\\u81ea\\u5df1\\u7684\\u751f\\u547d\\u503c\\u5361\\u5f35\\u6578\\u6bd4\\u5c0d\\u624b\\u5c11\\u6642\\uff0c\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7372\\u5f97\\u3010\\u901f\\u653b\\u3011\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"X\\u30fb\\u591a\\u96f7\\u53e4\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-114.png?240831\", \"alternate\": false, \"power\": 3000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1a\\u81ea\\u5df1\\u7684\\u751f\\u547d\\u503c\\u5361\\u5f35\\u6578\\u5c11\\u65bc\\u7b49\\u65bc\\u5c0d\\u624b\\u7684\\u751f\\u547d\\u503c\\u5361\\u5f35\\u6578\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75284\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"UC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u6d77\\u8ecd/\\u591a\\u96f7\\u53e4\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 3}",
-  "{\"name\": [\"\\u6211\\u5011\\u5728\\u300c\\u65b0\\u4e16\\u754c\\u300d\\u518d\\u898b\\u5427\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-115.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u53cd\\u64ca\\u3011\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u5834\\u5c0d\\u6230\\u4e2d\\uff0c\\u529b\\u91cf\\u503c+4000\\u3002\\u4e4b\\u5f8c\\uff0c\\u82e5\\u81ea\\u5df1\\u7684\\u751f\\u547d\\u503c\\u5361\\u70ba0\\u5f35\\u6642\\uff0c\\u62bd1\\u5f35\\u5361\\u7247\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"C\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 2}",
-  "{\"name\": [\"\\u96fb\\u78c1\\u7832\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-116.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u4e3b\\u8981\\u3011\\u67e5\\u770b\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u6216\\u5c0d\\u624b\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u7684\\u5361\\u7247\\uff0c\\u4e26\\u653e\\u7f6e\\u5728\\u751f\\u547d\\u503c\\u5340\\u7684\\u4e0a\\u9762\\u6216\\u4e0b\\u9762\\u3002\\u4e4b\\u5f8c\\uff0cKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"R\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u57fa\\u5fb7\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 4}",
-  "{\"name\": [\"ROOM\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-117.png?240831\", \"alternate\": false, \"power\": 0, \"effect\": [\"\\u3010\\u53cd\\u64ca\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u751f\\u547d\\u503c\\u5361\\u57281\\u5f35\\u4ee5\\u4e0b\\u6642\\uff0c\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\uff0c\\u5728\\u9019\\u5834\\u5c0d\\u6230\\u4e2d\\uff0c\\u529b\\u91cf\\u503c+3000\\u3002\\u4e4b\\u5f8c\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u6d3b\\u52d5\\u72c0\\u614b\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"UC\"], \"card_type\": \"EVENT\", \"feature\": \"\\u7279\\u5f81\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": null, \"cost\": 1}",
-  "{\"name\": [\"\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-118.png?240831\", \"alternate\": false, \"power\": 7000, \"effect\": [\"\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u6bcf\\u56de\\u54081\\u6b21\\u4e0d\\u6703\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u800c\\u906d\\u5230KO\\u3002\", \"\\u3010\\u653b\\u64ca\\u6642\\u3011\\u53ef\\u5c073\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u7684\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u7f6e\\u5728\\u5361\\u7d44\\u4e0b\\u9762\\uff1a\\u82e5\\u5c0d\\u624b\\u7684\\u624b\\u724c\\u67095\\u5f35\\u4ee5\\u4e0a\\u6642\\uff0c\\u5c0d\\u624b\\u5ee2\\u68c41\\u5f35\\u81ea\\u8eab\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"SEC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 6}",
-  "{\"name\": [\"\\u8499\\u5176\\u30fbD\\u30fb\\u9b6f\\u592b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-118_p1.png?240831\", \"alternate\": true, \"power\": 7000, \"effect\": [\"\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u6bcf\\u56de\\u54081\\u6b21\\u4e0d\\u6703\\u56e0\\u5c0d\\u624b\\u7684\\u6548\\u679c\\u800c\\u906d\\u5230KO\\u3002\", \"\\u3010\\u653b\\u64ca\\u6642\\u3011\\u53ef\\u5c073\\u5f35\\u81ea\\u5df1\\u5ee2\\u68c4\\u5340\\u4e2d\\u7684\\u5361\\u7247\\u4f9d\\u4efb\\u610f\\u9806\\u5e8f\\u653e\\u7f6e\\u5728\\u5361\\u7d44\\u4e0b\\u9762\\uff1a\\u82e5\\u5c0d\\u624b\\u7684\\u624b\\u724c\\u67095\\u5f35\\u4ee5\\u4e0a\\u6642\\uff0c\\u5c0d\\u624b\\u5ee2\\u68c41\\u5f35\\u81ea\\u8eab\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 1000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"SEC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 6}",
-  "{\"name\": [\"\\u6258\\u62c9\\u6cd5\\u723e\\u52a0\\u30fb\\u7f85\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-119.png?240831\", \"alternate\": false, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4e26\\u4ee5\\u80cc\\u9762\\u671d\\u4e0a\\u52a0\\u5165\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u3002\\u4e4b\\u5f8c\\uff0c\\u9644\\u52a0\\u6700\\u591a1\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"SEC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u6258\\u62c9\\u6cd5\\u723e\\u52a0\\u30fb\\u7f85\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-119_p1.png?240831\", \"alternate\": true, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4e26\\u4ee5\\u80cc\\u9762\\u671d\\u4e0a\\u52a0\\u5165\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u3002\\u4e4b\\u5f8c\\uff0c\\u9644\\u52a0\\u6700\\u591a1\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"SEC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u6258\\u62c9\\u6cd5\\u723e\\u52a0\\u30fb\\u7f85\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP10-119_p2.png?240831\", \"alternate\": true, \"power\": 9000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u516c\\u958b\\u6700\\u591a1\\u5f35\\u81ea\\u5df1\\u624b\\u724c\\u4e2d\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u89d2\\u8272\\u5361\\uff0c\\u4e26\\u4ee5\\u80cc\\u9762\\u671d\\u4e0a\\u52a0\\u5165\\u751f\\u547d\\u503c\\u5340\\u4e0a\\u9762\\u3002\\u4e4b\\u5f8c\\uff0c\\u9644\\u52a0\\u6700\\u591a1\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u64c1\\u6709\\u300a\\u8d85\\u65b0\\u661f\\u300b\\u7279\\u5fb5\\u7684\\u9818\\u822a\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ec3\", \"rarity\": [\"SEC\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u591a\\u96f7\\u65af\\u7f85\\u85a9/\\u8d85\\u65b0\\u661f/\\u54c8\\u7279\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u65ac\", \"cost\": 7}",
-  "{\"name\": [\"\\u590f\\u6d1b\\u7279\\u30fb\\u666e\\u7433\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST12-012_p1.png?240831\", \"alternate\": true, \"power\": 2000, \"effect\": [\"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u653e\\u56de\\u6301\\u6709\\u8005\\u7684\\u624b\\u724c\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u85cd\", \"rarity\": [\"SP\\u5361\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81BIG MOM\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u77e5\", \"cost\": 2}",
-  "{\"name\": [\"\\u9999\\u5409\\u58eb\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-003_p1.png?240831\", \"alternate\": true, \"power\": 6000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u5834\\u4e0a\\u6709\\u81ea\\u5df1\\u8cbb\\u75286\\u4ee5\\u4e0a\\u7684\\u89d2\\u8272\\u5361\\u6642\\uff0cKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u9ed1\", \"rarity\": [\"SP\\u5361\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u6253\", \"cost\": 5}",
-  "{\"name\": [\"\\u827e\\u5fb7\\u83ef\\u30fb\\u7d10\\u84cb\\u7279\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST15-002_p1.png?240831\", \"alternate\": true, \"power\": 8000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u9644\\u52a0\\u6700\\u591a1\\u5f35\\u4f11\\u606f\\u72c0\\u614b\\u7684\\u549a\\u203c\\u5361\\u57281\\u5f35\\u81ea\\u5df1\\u7684\\u9818\\u822a\\u5361\\u6216\\u89d2\\u8272\\u5361\\u3002\", \"\\u3010\\u555f\\u52d5\\u4e3b\\u8981\\u3011\\u53ef\\u5c07\\u9019\\u5f35\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\uff1aKO\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u529b\\u91cf\\u503c5000\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u3002\"], \"counter\": 0, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d05\", \"rarity\": [\"SP\\u5361\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u56db\\u7687/\\u767d\\u9b0d\\u5b50\\u6d77\\u8cca\\u5718\", \"attribute\": \"\\u7279\", \"cost\": 7}",
-  "{\"name\": [\"\\u9a19\\u4eba\\u516b\"], \"card_id\": null, \"imageUrl\": \"https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST18-001_p1.png?240831\", \"alternate\": true, \"power\": 3000, \"effect\": [\"\\u3010\\u767b\\u5834\\u6642\\u3011\\u82e5\\u81ea\\u5df1\\u7684\\u5834\\u4e0a\\u67098\\u5f35\\u4ee5\\u4e0a\\u549a\\u203c\\u5361\\u6642\\uff0c\\u5c07\\u6700\\u591a1\\u5f35\\u5c0d\\u624b\\u8cbb\\u75285\\u4ee5\\u4e0b\\u7684\\u89d2\\u8272\\u5361\\u7f6e\\u70ba\\u4f11\\u606f\\u72c0\\u614b\\u3002\"], \"counter\": 2000, \"card_set\": [\"\\u7372\\u53d6\\u65b9\\u6cd5\\u738b\\u65cf\\u8840\\u8108\\u3010OP-10\\u3011\"], \"color\": \"<h3>\\u984f\\u8272</h3>\\u7d2b\", \"rarity\": [\"SP\\u5361\"], \"card_type\": \"CHARACTER\", \"feature\": \"\\u7279\\u5f81\\u8349\\u5e3d\\u4e00\\u884c\\u4eba\", \"attribute\": \"\\u5c04\", \"cost\": 3}"
+  {
+    "name": [
+      "光月御田"
+    ],
+    "card_id": [
+      "EB01-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "在規則上，自己擁有《和之國》特徵未持有反擊的角色卡全數持有反擊+1000。",
+      "【咚‼×1】【攻擊時】若場上有自己費用5以上擁有《和之國》特徵的角色卡時，這張領航卡，到下一個我方回合開始前，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅",
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征和之國/光月家",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "光月御田(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-001_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "在規則上，自己擁有《和之國》特徵未持有反擊的角色卡全數持有反擊+1000。",
+      "【咚‼×1】【攻擊時】若場上有自己費用5以上擁有《和之國》特徵的角色卡時，這張領航卡，到下一個我方回合開始前，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅",
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征和之國/光月家",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "以藏"
+    ],
+    "card_id": [
+      "EB01-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-002.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【登場時】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+      "【對方攻擊時】【每回合1次】可以廢棄1張自己的手牌：若自己的領航卡擁有《和之國》或《白鬍子海賊團》特徵時，最多1張對手的領航卡或角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/白鬍子海賊團",
+    "attribute": "射",
+    "cost": 5
+  },
+  {
+    "name": [
+      "基德&奇拉"
+    ],
+    "card_id": [
+      "EB01-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-003.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)",
+      "【攻擊時】若對手的生命值卡在2張以下時，這張角色卡，在這個回合，力量值+2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/基德海賊團",
+    "attribute": "斬/特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "基德&奇拉(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-003_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)",
+      "【攻擊時】若對手的生命值卡在2張以下時，這張角色卡，在這個回合，力量值+2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/基德海賊團",
+    "attribute": "斬/特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "寇沙"
+    ],
+    "card_id": [
+      "EB01-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-004.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【攻擊時】1張自己活動狀態的領航卡，在這個回合，可以力量值-5000：最多1張對手的角色卡，在這個回合，力量值-3000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征阿拉巴斯坦王國",
+    "attribute": "射",
+    "cost": 2
+  },
+  {
+    "name": [
+      "多馬"
+    ],
+    "card_id": [
+      "EB01-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-005.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團旗下",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴"
+    ],
+    "card_id": [
+      "EB01-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-006.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-006_p1.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-006_p2.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "大和"
+    ],
+    "card_id": [
+      "EB01-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-007.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "小歐斯Jr."
+    ],
+    "card_id": [
+      "EB01-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-008.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【每回合1次】若這張角色卡因為效果即將遭到KO時，可以替換成廢棄1張自己手牌中的事件卡或舞台卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征巨人族/白鬍子海賊團旗下",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "少囉唆！走吧！"
+    ],
+    "card_id": [
+      "EB01-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-009.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】從自己的卡組上面查看5張卡片，使最多1張費用3以下擁有《動物》特徵的角色卡登場。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征磁鼓王國/草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "你怎麼可能…打得贏我！"
+    ],
+    "card_id": [
+      "EB01-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-010.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】KO最多1張對手原本力量值6000以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征W7/草帽一行人",
+    "attribute": null,
+    "cost": 3
+  },
+  {
+    "name": [
+      "迷你梅利2號"
+    ],
+    "card_id": [
+      "EB01-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-011.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張卡片置為休息狀態，並將1張自己原本力量值1000的角色卡放置在卡組下面：抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "STAGE",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "卡文迪許"
+    ],
+    "card_id": [
+      "EB01-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-012.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】/【攻擊時】若自己的領航卡擁有《超新星》特徵，場上沒有自己其他的角色卡「卡文迪許」時，將最多2張自己的咚‼卡置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/貌美海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "卡文迪許(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-012_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "【登場時】/【攻擊時】若自己的領航卡擁有《超新星》特徵，場上沒有自己其他的角色卡「卡文迪許」時，將最多2張自己的咚‼卡置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/貌美海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "光月日和"
+    ],
+    "card_id": [
+      "EB01-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-013.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「光月日和」以外費用5以下擁有《和之國》特徵的角色卡登場。之後，抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/光月家",
+    "attribute": "知",
+    "cost": 4
+  },
+  {
+    "name": [
+      "光月日和(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-013_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「光月日和」以外費用5以下擁有《和之國》特徵的角色卡登場。之後，抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/光月家",
+    "attribute": "知",
+    "cost": 4
+  },
+  {
+    "name": [
+      "香吉士"
+    ],
+    "card_id": [
+      "EB01-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-014.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【我方回合中】自己每有3張休息狀態的咚‼卡，這張角色卡，力量+1000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/草帽一行人",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "刮盤人・亞普"
+    ],
+    "card_id": [
+      "EB01-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-015.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【登場時】將最多1張對手費用2以下的角色卡置為休息狀態。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/ONAIR海賊團",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "鬢豪"
+    ],
+    "card_id": [
+      "EB01-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-016.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：KO最多1張對手休息狀態費用1以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "布魯諾"
+    ],
+    "card_id": [
+      "EB01-017"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-017.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/CP0",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "大山"
+    ],
+    "card_id": [
+      "EB01-018"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-018.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/和之國",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "盾白線"
+    ],
+    "card_id": [
+      "EB01-019"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-019.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，從自己的卡組上面查看3張卡片，公開最多1張擁有《唐吉訶德海賊團》特徵的角色卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征王下七武海/唐吉訶德海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "移植"
+    ],
+    "card_id": [
+      "EB01-020"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-020.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡擁有《超新星》特徵時，將1張自己的角色卡放回持有者的手牌，並從自己的手牌中，使最多1張和被放回的角色卡不同顏色費用2以下的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/哈特海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "般若拔"
+    ],
+    "card_id": [
+      "EB01-021"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-021.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【我方回合結束時】可將1張自己費用2以上擁有《推進城》特徵的角色卡放回持有者的手牌：從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍",
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征推進城",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "般若拔(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-021"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-021_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【我方回合結束時】可將1張自己費用2以上擁有《推進城》特徵的角色卡放回持有者的手牌：從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍",
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征推進城",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "雷電"
+    ],
+    "card_id": [
+      "EB01-022"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-022.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【我方回合結束時】若自己的手牌在2張以下時，抽2張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征推進城/革命軍",
+    "attribute": "斬",
+    "cost": 6
+  },
+  {
+    "name": [
+      "雷電(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-022"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-022_p1.png?240831",
+    "alternate": true,
+    "power": 7000,
+    "effect": [
+      "【我方回合結束時】若自己的手牌在2張以下時，抽2張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征推進城/革命軍",
+    "attribute": "斬",
+    "cost": 6
+  },
+  {
+    "name": [
+      "艾德華・衛伯"
+    ],
+    "card_id": [
+      "EB01-023"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-023.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "哈姆雷特"
+    ],
+    "card_id": [
+      "EB01-024"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-024.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "若自己的手牌在4張以下時，自己擁有《SMILE》特徵的角色卡全數，力量值+1000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團/SMILE",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "佛特黎克斯"
+    ],
+    "card_id": [
+      "EB01-025"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-025.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征百獸海賊團/SMILE",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "貝雷特王子"
+    ],
+    "card_id": [
+      "EB01-026"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-026.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【咚‼×1】【攻擊時】若自己的手牌在1張以下時，將最多1張費用3以下的角色卡放回持有者的手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征推進城",
+    "attribute": "射",
+    "cost": 2
+  },
+  {
+    "name": [
+      "Mr.1(達茲・波涅士)"
+    ],
+    "card_id": [
+      "EB01-027"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-027.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "若自己的領航卡擁有包含『B・W』特徵時，自己的廢棄區中每有2張事件卡，這張角色卡，力量值+1000。",
+      "【登場時】抽2張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征B・W",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "Mr.1(達茲・波涅士)(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-027"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-027_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "若自己的領航卡擁有包含『B・W』特徵時，自己的廢棄區中每有2張事件卡，這張角色卡，力量值+1000。",
+      "【登場時】抽2張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征B・W",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "橡膠拳王螺旋彈"
+    ],
+    "card_id": [
+      "EB01-028"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-028.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】若自己的領航卡擁有《推進城》特徵時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，對手將1張自身活動狀態的角色卡放回持有者的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征推進城/草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "抱歉，我要死了"
+    ],
+    "card_id": [
+      "EB01-029"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-029.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】公開1張自己卡組上面的卡片，若公開的卡片是費用4以上時，將最多1張自己的角色卡放回持有者的手牌。之後，將公開的卡片放置在卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征東方藍/草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "羅格鎮"
+    ],
+    "card_id": [
+      "EB01-030"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-030.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張卡片和1張自己的手牌依任意順序放置在卡組下面：抽2張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "STAGE",
+    "feature": "特征東方藍",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "卡莉法"
+    ],
+    "card_id": [
+      "EB01-031"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-031.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，將最多2張自己廢棄區中費用4以下的角色卡，加入手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征W7/GC",
+    "attribute": "知",
+    "cost": 5
+  },
+  {
+    "name": [
+      "卡莉法(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-031"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-031_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，將最多2張自己廢棄區中費用4以下的角色卡，加入手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征W7/GC",
+    "attribute": "知",
+    "cost": 5
+  },
+  {
+    "name": [
+      "軍狼"
+    ],
+    "card_id": [
+      "EB01-032"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-032.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/推進城",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "布魯諾"
+    ],
+    "card_id": [
+      "EB01-033"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-033.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，使最多1張自己手牌或廢棄區中除了「布魯諾」以外費用5擁有《W7》特徵的角色卡登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征W7",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "Miss星期三"
+    ],
+    "card_id": [
+      "EB01-034"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-034.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征B・W",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "Miss星期三(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-034"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-034_p1.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征B・W",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "Miss星期一"
+    ],
+    "card_id": [
+      "EB01-035"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-035.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】若自己的領航卡擁有包含『B・W』特徵時，最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征B・W",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "米諾吉娃娃"
+    ],
+    "card_id": [
+      "EB01-036"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-036.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)",
+      "【KO時】若自己的領航卡擁有《推進城》特徵時，從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征推進城/獄卒獣",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "Mr.9"
+    ],
+    "card_id": [
+      "EB01-037"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-037.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征B・W",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "人妖道"
+    ],
+    "card_id": [
+      "EB01-038"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-038.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，選擇1張自己的角色卡。攻擊的對象變更為選擇的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征B・W",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "降三世引奈落"
+    ],
+    "card_id": [
+      "EB01-039"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-039.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：KO最多1張對手費用8以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征四皇/百獸海賊團",
+    "attribute": null,
+    "cost": 5
+  },
+  {
+    "name": [
+      "居魯士"
+    ],
+    "card_id": [
+      "EB01-040"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-040.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：KO最多1張對手費用0的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑",
+      "黃"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征多雷斯羅薩",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "居魯士(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-040"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-040_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：KO最多1張對手費用0的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑",
+      "黃"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征多雷斯羅薩",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "可樂克斯"
+    ],
+    "card_id": [
+      "EB01-041"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-041.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征原羅傑海賊團",
+    "attribute": "知",
+    "cost": 6
+  },
+  {
+    "name": [
+      "史卡雷多"
+    ],
+    "card_id": [
+      "EB01-042"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-042.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「史卡雷多」以外費用3以下擁有《多雷斯羅薩》特徵的角色卡以休息狀態登場。之後，最多1張對手的角色卡，在這個回合，費用-2。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征多雷斯羅薩",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "斯帕達因"
+    ],
+    "card_id": [
+      "EB01-043"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-043.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】可將3張自己廢棄區中擁有包含『CP』特徵的卡片依任意順序放置在卡組下面：使最多1張自己廢棄區中除了「斯帕達因」以外費用4以下擁有包含『CP』特徵的角色卡，以休息狀態登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP9",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "法古佛立德"
+    ],
+    "card_id": [
+      "EB01-044"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-044.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的角色卡「斯帕達姆」，在這個回合，力量值+3000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP9",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "布魯克"
+    ],
+    "card_id": [
+      "EB01-045"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-045.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【登場時】若場上有對手費用0的角色卡時，這張角色卡，在這個回合，獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征倫巴海賊團",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "布魯克"
+    ],
+    "card_id": [
+      "EB01-046"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-046.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【登場時】/【攻擊時】最多1張對手的角色卡，在這個回合，費用-1。之後，KO最多1張對手費用0的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "布魯克(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-046"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-046_p1.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【登場時】/【攻擊時】最多1張對手的角色卡，在這個回合，費用-1。之後，KO最多1張對手費用0的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "拉布"
+    ],
+    "card_id": [
+      "EB01-047"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-047.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【每回合1次】角色卡遭到KO時，抽1張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "拉布"
+    ],
+    "card_id": [
+      "EB01-048"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-048.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "拉布(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-048"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-048_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "T彭恩"
+    ],
+    "card_id": [
+      "EB01-049"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-049.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征W7/海軍",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "T彭恩(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-049"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-049_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征W7/海軍",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "我想活下去！"
+    ],
+    "card_id": [
+      "EB01-050"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-050.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】若自己廢棄區有30張以上卡片時，將最多1張自己卡組上面的卡片加入生命值區上面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 3
+  },
+  {
+    "name": [
+      "指槍"
+    ],
+    "card_id": [
+      "EB01-051"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-051.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】可將2張自己卡組上面的卡片放置在廢棄區：KO最多1張對手費用5以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征CP9",
+    "attribute": null,
+    "cost": 4
+  },
+  {
+    "name": [
+      "碧歐菈"
+    ],
+    "card_id": [
+      "EB01-052"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-052.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】選擇下列其中一項。",
+      "・查看對手全數的生命值卡，並依任意順序放置。",
+      "・將自己的生命值卡全數翻成背面朝上。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征多雷斯羅薩",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "碧歐菈(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-052"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-052_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】選擇下列其中一項。",
+      "・查看對手全數的生命值卡，並依任意順序放置。",
+      "・將自己的生命值卡全數翻成背面朝上。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征多雷斯羅薩",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "葛斯提諾"
+    ],
+    "card_id": [
+      "EB01-053"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-053.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】將最多1張對手費用3以下的角色卡，以正面朝上放置在對手的生命值區上面或下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科学者",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "甘・福爾"
+    ],
+    "card_id": [
+      "EB01-054"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-054.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】若對手的生命值卡在1張以下時，KO最多1張對手費用3以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征空島",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "夏洛特・肯珀特"
+    ],
+    "card_id": [
+      "EB01-055"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-055.png?240831",
+    "alternate": false,
+    "power": 9000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "知",
+    "cost": 7
+  },
+  {
+    "name": [
+      "夏洛特・芙蘭佩"
+    ],
+    "card_id": [
+      "EB01-056"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-056.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：抽1張卡片。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "夏洛特・芙蘭佩(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-056"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-056_p1.png?240831",
+    "alternate": true,
+    "power": 1000,
+    "effect": [
+      "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：抽1張卡片。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征BIG MOM海賊團",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "白星"
+    ],
+    "card_id": [
+      "EB01-057"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-057.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征人魚族",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "白星(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-057"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-057_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征人魚族",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "蒙布朗・庫力凱"
+    ],
+    "card_id": [
+      "EB01-058"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-058.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【咚‼×1】【我方回合中】若自己的生命值卡在2張以下時，這張角色卡的力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征猿山聯合軍",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "雷迎"
+    ],
+    "card_id": [
+      "EB01-059"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-059.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】KO最多1張對手的角色卡。之後，將自己生命值區上面的卡片放置在廢棄區使生命值卡只有1張。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征空島",
+    "attribute": null,
+    "cost": 6
+  },
+  {
+    "name": [
+      "我乃神是也"
+    ],
+    "card_id": [
+      "EB01-060"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-060.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】使最多1張自己手牌或廢棄區中費用7以下的「艾涅爾」登場。之後，將自己生命值區上面的卡片放置在廢棄區使生命值卡只有1張。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征空島",
+    "attribute": null,
+    "cost": 4
+  },
+  {
+    "name": [
+      "Mr.2・馮・克雷(班薩姆)"
+    ],
+    "card_id": [
+      "EB01-061"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-061.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【登場時】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+      "【攻擊時】選擇最多1張對手的角色卡。這張角色卡原本的力量值，在這個回合，變成和選擇的角色卡的力量值相同。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SEC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征前B・W",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "Mr.2・馮・克雷(班薩姆)(異圖卡)"
+    ],
+    "card_id": [
+      "EB01-061"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/EB01-061_p1.png?240831",
+    "alternate": true,
+    "power": 1000,
+    "effect": [
+      "【登場時】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+      "【攻擊時】選擇最多1張對手的角色卡。這張角色卡原本的力量值，在這個回合，變成和選擇的角色卡的力量值相同。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法回憶收藏【EB-01】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SEC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征前B・W",
+    "attribute": "特",
+    "cost": 4
+  }
 ]

@@ -76,8 +76,8 @@ class OPCard(Base):
         self.effect:list[str] = self.clear_text(effect, split="<br/>")
         self.counter:int = self.clear_int(counter)
         self.trigger:str = self.clear_text(trigger, split="<br/>")
-        self.card_set:str  =  self.clear_text(card_set, split="/")
-        self.color:list[Color] = color
+        self.card_set:str  =  card_set
+        self.color:list[Color] = self.clear_text(color, split="/")
         self.rarity:Rarity = rarity,
         self.card_type:str   =  card_type
         self.feature:list[str] = feature
@@ -105,9 +105,9 @@ class OPCard(Base):
                 f"feature={self.feature}, attribute={self.attribute}, cost={self.cost})")
     
     def to_json(self):
-            return json.dumps({
+            return {
                 "name": self.name,
-                "card_id": self.card_id,
+                "card_id": self.ID,
                 "imageUrl": self.imageUrl,
                 "alternate": self.alternate,
                 "power": self.power,
@@ -120,4 +120,4 @@ class OPCard(Base):
                 "feature": self.feature,
                 "attribute": self.attribute,
                 "cost": self.cost
-            })
+            }

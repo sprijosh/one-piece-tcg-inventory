@@ -1,0 +1,3938 @@
+[
+  {
+    "name": [
+      "阿菊(異圖卡)"
+    ],
+    "card_id": [
+      "OP01-035"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-035_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】【每回合1次】將最多1張對手費用5以下的角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SP卡"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/紅鞘九人眾",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "唐吉訶德・多佛朗明哥(異圖卡)"
+    ],
+    "card_id": [
+      "OP01-073"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-073_p2.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】從自己的卡組上面查看5張卡片，並依任意順序變換排列放到卡組上面或下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SP卡"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/唐吉訶德海賊團",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "以藏(異圖卡)"
+    ],
+    "card_id": [
+      "OP03-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-003_p1.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「以藏」以外擁有包含『白鬍子海賊團』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SP卡"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國/白鬍子海賊團",
+    "attribute": "射",
+    "cost": 1
+  },
+  {
+    "name": [
+      "一笑(異圖卡)"
+    ],
+    "card_id": [
+      "OP03-078"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-078_p2.png?240831",
+    "alternate": true,
+    "power": 9000,
+    "effect": [
+      "【咚‼×1】【我方回合中】對手的角色卡全數費用-3。",
+      "【登場時】若對手的手牌有6張以上時，廢棄2張對手的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SP卡"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "斬",
+    "cost": 8
+  },
+  {
+    "name": [
+      "尤斯塔斯・基德(異圖卡)"
+    ],
+    "card_id": [
+      "OP05-074"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP05-074_p3.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SP卡"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征基德海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "阿娜(異圖卡)"
+    ],
+    "card_id": [
+      "OP06-101"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP06-101_p2.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【登場時】最多1張自己的領航卡或角色卡，在這個回合，獲得【消失】。",
+      "(若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SP卡"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "蒙其・D・多拉格"
+    ],
+    "card_id": [
+      "OP07-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】附加合計最多2張自己被附加的咚‼卡在1張自己的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征革命軍",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "蒙其・D・多拉格(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-001_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】附加合計最多2張自己被附加的咚‼卡在1張自己的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征革命軍",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "艾茵"
+    ],
+    "card_id": [
+      "OP07-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-002.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】最多1張對手的角色卡，在這個回合，力量值減至0。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/新海軍",
+    "attribute": "特",
+    "cost": 7
+  },
+  {
+    "name": [
+      "奧德路克三世"
+    ],
+    "card_id": [
+      "OP07-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-003.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：最多2張對手的角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哥雅王國",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "卡莉・達坦"
+    ],
+    "card_id": [
+      "OP07-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-004.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：從自己的卡組上面查看5張卡片，公開最多1張力量值2000以下的角色卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征山賊",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "卡莉娜"
+    ],
+    "card_id": [
+      "OP07-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-005.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】最多1張對手的角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/GRAN TESORO",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "卡莉娜(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-005_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】最多1張對手的角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/GRAN TESORO",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "史泰利"
+    ],
+    "card_id": [
+      "OP07-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-006.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【登場時】1張自己活動狀態的領航卡，在這個回合，可以力量值-5000：抽1張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哥雅王國",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "戴斯"
+    ],
+    "card_id": [
+      "OP07-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-007.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/GRAN TESORO",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "田中先生"
+    ],
+    "card_id": [
+      "OP07-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-008.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/GRAN TESORO",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "多古拉＆馬古拉"
+    ],
+    "card_id": [
+      "OP07-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-009.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】最多1張自己費用1紅色的角色卡，在這個回合，獲得【雙重攻擊】。",
+      "(這張卡片造成的傷害為2)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征山賊",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "芭卡拉"
+    ],
+    "card_id": [
+      "OP07-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-010.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【對方攻擊時】【每回合1次】可以廢棄1張自己的手牌：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/GRAN TESORO",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "布魯賈姆"
+    ],
+    "card_id": [
+      "OP07-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-011.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】KO最多1張對手力量值2000以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哥雅王國/布魯賈姆海賊團",
+    "attribute": "射",
+    "cost": 4
+  },
+  {
+    "name": [
+      "波爾謝米"
+    ],
+    "card_id": [
+      "OP07-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-012.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】最多1張對手的角色卡，在這個回合，力量值-1000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哥雅王國/布魯賈姆海賊團",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "面具・迪斯"
+    ],
+    "card_id": [
+      "OP07-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-013.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】若自己的領航卡是「波特卡斯・D・艾斯」時，從自己的卡組上面查看5張卡片，公開最多1張「波特卡斯・D・艾斯」或紅色的事件卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征黑桃海賊團",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "莫妲"
+    ],
+    "card_id": [
+      "OP07-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-014.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【我方回合中】【登場時】最多1張自己的「波特卡斯・D・艾斯」，在這個回合，力量值+2000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魯魯西亞王國",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "蒙其・D・多拉格"
+    ],
+    "card_id": [
+      "OP07-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-015.png?240831",
+    "alternate": false,
+    "power": 9000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)",
+      "【登場時】附加最多2張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征革命軍",
+    "attribute": "特",
+    "cost": 8
+  },
+  {
+    "name": [
+      "蒙其・D・多拉格(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-015_p1.png?240831",
+    "alternate": true,
+    "power": 9000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)",
+      "【登場時】附加最多2張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征革命軍",
+    "attribute": "特",
+    "cost": 8
+  },
+  {
+    "name": [
+      "銀河・WINK"
+    ],
+    "card_id": [
+      "OP07-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-016.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】最多1張自己擁有《革命軍》特徵的角色卡，在這個回合，力量值+2000。之後，最多1張對手的角色卡，在這個回合，力量值-1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征革命軍",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "龍之吐息"
+    ],
+    "card_id": [
+      "OP07-017"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-017.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】KO對手最多1張力量值3000以下的角色卡和最多1張費用1以下的舞台卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征革命軍",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "KEEP OUT"
+    ],
+    "card_id": [
+      "OP07-018"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-018.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己擁有《革命軍》特徵的角色卡，到下一個我方回合結束前，力量值+2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征推進城/革命軍",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "珠寶・波妮"
+    ],
+    "card_id": [
+      "OP07-019"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-019.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【對方攻擊時】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張對手的領航卡或角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征超新星/波妮海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "珠寶・波妮(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-019"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-019_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【對方攻擊時】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張對手的領航卡或角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征超新星/波妮海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "阿拉丁"
+    ],
+    "card_id": [
+      "OP07-020"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-020.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【KO時】若自己的領航卡擁有《魚人族》特徵時，使最多1張自己手牌中費用3以下擁有《魚人族》或《人魚族》特徵的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征人魚族/太陽海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "烏魯基"
+    ],
+    "card_id": [
+      "OP07-021"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-021.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【我方回合結束時】將最多1張自己的咚‼卡置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/破戒僧海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "玉兒"
+    ],
+    "card_id": [
+      "OP07-022"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-022.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「玉兒」以外綠色擁有《和之國》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "玉兒(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-022"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-022_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「玉兒」以外綠色擁有《和之國》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征和之國",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "格列佛"
+    ],
+    "card_id": [
+      "OP07-023"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-023.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "若自己有6張以上休息狀態的咚‼卡時，這張角色卡的力量值+1000。",
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/格列佛海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "可亞拉"
+    ],
+    "card_id": [
+      "OP07-024"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-024.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【對方攻擊時】可將這張角色卡置為休息狀態：最多1張自己費用5以下擁有《魚人族》特徵的角色卡，在這個回合，獲得【防禦】。",
+      "(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征福爾夏特島",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "柯列佛"
+    ],
+    "card_id": [
+      "OP07-025"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-025.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】使最多1張自己手牌中費用4以下的「格列佛」，以休息狀態登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/格列佛海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "珠寶・波妮"
+    ],
+    "card_id": [
+      "OP07-026"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-026.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】對手最多1張休息狀態的角色卡或咚‼卡，在下一個對手的重整階段無法為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/波妮海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "珠寶・波妮(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-026"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-026_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "【登場時】對手最多1張休息狀態的角色卡或咚‼卡，在下一個對手的重整階段無法為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/波妮海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "吉貝爾"
+    ],
+    "card_id": [
+      "OP07-027"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-027.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/太陽海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "刮盤人・亞普"
+    ],
+    "card_id": [
+      "OP07-028"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-028.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/ONAIR海賊團",
+    "attribute": "射",
+    "cost": 6
+  },
+  {
+    "name": [
+      "巴吉魯・霍金斯"
+    ],
+    "card_id": [
+      "OP07-029"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-029.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "若自己的領航卡擁有《超新星》特徵時，這張角色卡獲得【防禦】。",
+      "(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【每回合1次】若這張角色卡因對手的效果即將離開場上時，可以替換成將1張對手的角色卡置為休息狀態。",
+      ""
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/霍金斯海賊團",
+    "attribute": "斬",
+    "cost": 6
+  },
+  {
+    "name": [
+      "巴吉魯・霍金斯(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-029"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-029_p1.png?240831",
+    "alternate": true,
+    "power": 7000,
+    "effect": [
+      "若自己的領航卡擁有《超新星》特徵時，這張角色卡獲得【防禦】。",
+      "(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【每回合1次】若這張角色卡因對手的效果即將離開場上時，可以替換成將1張對手的角色卡置為休息狀態。",
+      ""
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/霍金斯海賊團",
+    "attribute": "斬",
+    "cost": 6
+  },
+  {
+    "name": [
+      "帕帕克"
+    ],
+    "card_id": [
+      "OP07-030"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-030.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "若場上有自己的角色卡「海咪」時，這張角色卡獲得【防禦】。",
+      "(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "巴特洛馬"
+    ],
+    "card_id": [
+      "OP07-031"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-031.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【我方回合中】【每回合1次】角色卡因自己的效果置為休息狀態時，抽1張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/巴特俱樂部",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "費雪・泰格"
+    ],
+    "card_id": [
+      "OP07-032"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-032.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "這張角色卡在登場的回合即可攻擊角色卡。",
+      "【登場時】若自己的領航卡擁有《魚人族》或《人魚族》特徵時，將最多1張對手費用6以下的角色卡置為休息狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/太陽海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "OP07-033"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-033.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "若場上有3張以上自己的角色卡時，自己除了「蒙其・D・魯夫」以外費用3以下的角色卡，不會因對手的效果而遭到KO。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "羅羅亞・索隆"
+    ],
+    "card_id": [
+      "OP07-034"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-034.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【攻擊時】若場上有3張以上自己的角色卡時，這張角色卡，在這個回合，力量值+2000。",
+      ""
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/草帽一行人",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "因果展現"
+    ],
+    "card_id": [
+      "OP07-035"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-035.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，若自己的角色卡在3張以上時，該張卡片，在這場對戰中，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/破戒僧海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "鬼氣 九刀流 阿修羅 魔九閃"
+    ],
+    "card_id": [
+      "OP07-036"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-036.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】最多1張自己的領航卡或角色卡，在這個回合，力量值+3000。之後，可將1張自己費用3以上的角色卡置為休息狀態。若有執行此動作時，將最多1張對手費用5以下的角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/草帽一行人",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "我～還～要～披薩!!!"
+    ],
+    "card_id": [
+      "OP07-037"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-037.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】從自己的卡組上面查看5張卡片，公開最多1張除了「我～還～要～披薩!!!」以外擁有《超新星》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征超新星/波妮海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "波雅・漢考克"
+    ],
+    "card_id": [
+      "OP07-038"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-038.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【我方回合中】【每回合1次】角色卡因為自己的效果離開場上時，可以發動。若自己的手牌在5張以下時，抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "波雅・漢考克(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-038"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-038_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【我方回合中】【每回合1次】角色卡因為自己的效果離開場上時，可以發動。若自己的手牌在5張以下時，抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "艾德華・衛伯"
+    ],
+    "card_id": [
+      "OP07-039"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-039.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】從自己的卡組上面查看3張卡片，並任意變換排列順序放到卡組上面或下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "克洛克達爾"
+    ],
+    "card_id": [
+      "OP07-040"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-040.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】①(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張費用2以下的角色卡放回持有者的手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/B・W",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "嘉蘭(紐婆婆)"
+    ],
+    "card_id": [
+      "OP07-041"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-041.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「嘉蘭(紐婆婆)」以外擁有《亞馬遜百合》或《九蛇海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征亞馬遜百合",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "月光・摩利亞"
+    ],
+    "card_id": [
+      "OP07-042"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-042.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【每回合1次】若自己的領航卡擁有《王下七武海》特徵，這張角色卡因對手的效果即將離開場上時，可以替換成將1張自己除了「月光・摩利亞」以外的角色卡放置在持有者的卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/恐怖三桅帆船海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "薩洛梅"
+    ],
+    "card_id": [
+      "OP07-043"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-043.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【我方回合中】【登場時】最多1張自己的「波雅・漢考克」，在這個回合，力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/九蛇海賊團",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "喬拉可爾・密佛格"
+    ],
+    "card_id": [
+      "OP07-044"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-044.png?240831",
+    "alternate": false,
+    "power": 10000,
+    "effect": [
+      "【登場時】抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海",
+    "attribute": "斬",
+    "cost": 8
+  },
+  {
+    "name": [
+      "吉貝爾"
+    ],
+    "card_id": [
+      "OP07-045"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-045.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】使最多1張自己手牌中除了「吉貝爾」以外費用4以下擁有《王下七武海》特徵的角色卡登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/王下七武海/太陽海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "吉貝爾(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-045"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-045_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】使最多1張自己手牌中除了「吉貝爾」以外費用4以下擁有《王下七武海》特徵的角色卡登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/王下七武海/太陽海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "戰國"
+    ],
+    "card_id": [
+      "OP07-046"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-046.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張擁有《王下七武海》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "戰國(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-046"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-046_p1.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張擁有《王下七武海》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "托拉法爾加・羅"
+    ],
+    "card_id": [
+      "OP07-047"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-047.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【啟動主要】可將這張角色卡放回持有者的手牌：若對手的手牌有6張以上時，對手將1張自身的手牌放置在卡組下面。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/哈特海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "托拉法爾加・羅(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-047"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-047_p1.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【啟動主要】可將這張角色卡放回持有者的手牌：若對手的手牌有6張以上時，對手將1張自身的手牌放置在卡組下面。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/哈特海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "唐吉訶德・多佛朗明哥"
+    ],
+    "card_id": [
+      "OP07-048"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-048.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【啟動主要】【每回合1次】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：公開自己卡組最上面的卡片，若該張卡片是費用4以下擁有《王下七武海》特徵的角色卡時，也可以休息狀態登場。之後，將其餘卡片放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/唐吉訶德海賊團",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "芭晴"
+    ],
+    "card_id": [
+      "OP07-049"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-049.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【登場時】使最多1張自己手牌中費用4以下的「艾德華・衛伯」，以休息狀態登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征衛伯之母",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "波雅・桑塔索妮雅"
+    ],
+    "card_id": [
+      "OP07-050"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-050.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】若自己場上有2張以上擁有《亞馬遜百合》或《九蛇海賊團》特徵的角色卡時，將最多1張對手費用3以下的角色卡放回持有者的手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征九蛇海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "波雅・漢考克"
+    ],
+    "card_id": [
+      "OP07-051"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-051.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "【登場時】最多1張對手除了「蒙其・D・魯夫」以外的角色卡，在下一個對手回合結束前，無法進行攻擊。之後，將最多1張費用1以下的角色卡放置在持有者的卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "波雅・漢考克(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-051"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-051_p1.png?240831",
+    "alternate": true,
+    "power": 8000,
+    "effect": [
+      "【登場時】最多1張對手除了「蒙其・D・魯夫」以外的角色卡，在下一個對手回合結束前，無法進行攻擊。之後，將最多1張費用1以下的角色卡放置在持有者的卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "波雅・漢考克(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-051"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-051_p2.png?240831",
+    "alternate": true,
+    "power": 8000,
+    "effect": [
+      "【登場時】最多1張對手除了「蒙其・D・魯夫」以外的角色卡，在下一個對手回合結束前，無法進行攻擊。之後，將最多1張費用1以下的角色卡放置在持有者的卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "波雅・瑪莉哥德"
+    ],
+    "card_id": [
+      "OP07-052"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-052.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】若自己場上有2張以上擁有《亞馬遜百合》或《九蛇海賊團》特徵的角色卡時，將最多1張費用2以下的角色卡放置在持有者的卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征九蛇海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "波特卡斯・D・艾斯"
+    ],
+    "card_id": [
+      "OP07-053"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-053.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】抽2張卡片，並將2張自己的手牌任意變換排列順序放置在卡組上面或下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "雛菊"
+    ],
+    "card_id": [
+      "OP07-054"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-054.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征亞馬遜百合",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "蛇舞"
+    ],
+    "card_id": [
+      "OP07-055"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-055.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，將最多1張自己的角色卡放回持有者的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征九蛇海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "虜之箭"
+    ],
+    "card_id": [
+      "OP07-056"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-056.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】可將1張自己費用2以上的角色卡放回持有者的手牌：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "芳香腳"
+    ],
+    "card_id": [
+      "OP07-057"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-057.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】選擇最多1張自己擁有《王下七武海》特徵的領航卡或角色卡，在這個回合，力量值+2000。之後，在這個回合，若選擇的卡片攻擊時，對手無法發動【防禦】。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "女人島"
+    ],
+    "card_id": [
+      "OP07-058"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-058.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可以廢棄1張自己的手牌，將這張舞台卡置為休息狀態：若自己的領航卡擁有《九蛇海賊團》特徵時，將最多1張自己擁有《亞馬遜百合》或《九蛇海賊團》特徵的角色卡放回持有者的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "STAGE",
+    "feature": "特征亞馬遜百合",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "弗克西"
+    ],
+    "card_id": [
+      "OP07-059"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-059.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【攻擊時】咚‼-3(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若場上有3張以上自己擁有《弗克西海賊團》特徵的角色卡時，選擇對手休息的領航卡和最多1張角色卡。選擇的卡片在下一個對手的重整階段無法為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "弗克西(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-059"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-059_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【攻擊時】咚‼-3(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若場上有3張以上自己擁有《弗克西海賊團》特徵的角色卡時，選擇對手休息的領航卡和最多1張角色卡。選擇的卡片在下一個對手的重整階段無法為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "線蚯蚓"
+    ],
+    "card_id": [
+      "OP07-060"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-060.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】【每回合1次】若自己的領航卡擁有《弗克西海賊團》特徵、場上沒有自己其他的「線蚯蚓」時，從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "賓什莫克・香吉士"
+    ],
+    "card_id": [
+      "OP07-061"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-061.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《賓什莫克家》特徵時，抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征杰爾馬王國/賓什莫克家",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "賓什莫克・麗珠"
+    ],
+    "card_id": [
+      "OP07-062"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-062.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，將最多1張自己費用1擁有《賓什莫克家》特徵的角色卡放回持有者的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征杰爾馬王國/賓什莫克家",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "卡博帝"
+    ],
+    "card_id": [
+      "OP07-063"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-063.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《弗克西海賊團》特徵時，最多1張對手費用6以下的角色卡，在下一個對手回合結束前，無法進行攻擊。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/弗克西海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "香吉士"
+    ],
+    "card_id": [
+      "OP07-064"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-064.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "若自己場上的咚‼卡比對手場上的咚‼卡少2張以上時，手牌中這張卡片的費用-3。",
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "香吉士(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-064"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-064_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "若自己場上的咚‼卡比對手場上的咚‼卡少2張以上時，手牌中這張卡片的費用-3。",
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "吉娜"
+    ],
+    "card_id": [
+      "OP07-065"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-065.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【登場時】若自己的領航卡擁有《弗克西海賊團》特徵、自己場上的咚‼卡少於等於對手場上的咚‼卡時，從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴"
+    ],
+    "card_id": [
+      "OP07-066"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-066.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/弗克西海賊團",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "東吉特"
+    ],
+    "card_id": [
+      "OP07-067"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-067.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征長環長島",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "漢堡"
+    ],
+    "card_id": [
+      "OP07-068"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-068.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚‼×1】【攻擊時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "皮克魯斯"
+    ],
+    "card_id": [
+      "OP07-069"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-069.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "若自己場上的咚‼卡少於等於對手場上的咚‼卡時，自己除了「皮克魯斯」以外擁有《弗克西海賊團》特徵的角色卡，不會因對手的效果而遭到KO。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "比格潘"
+    ],
+    "card_id": [
+      "OP07-070"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-070.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，使最多1張自己手牌中費用4以下擁有《弗克西海賊團》特徵的卡片登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征巨人族/魚人族/弗克西海賊團",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "弗克西"
+    ],
+    "card_id": [
+      "OP07-071"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-071.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【對方回合中】若自己的領航卡擁有《弗克西海賊團》特徵時，對手的角色卡全數力量值-1000。",
+      "【啟動主要】【每回合1次】從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "特",
+    "cost": 7
+  },
+  {
+    "name": [
+      "弗克西(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-071"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-071_p1.png?240831",
+    "alternate": true,
+    "power": 7000,
+    "effect": [
+      "【對方回合中】若自己的領航卡擁有《弗克西海賊團》特徵時，對手的角色卡全數力量值-1000。",
+      "【啟動主要】【每回合1次】從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "特",
+    "cost": 7
+  },
+  {
+    "name": [
+      "波琪"
+    ],
+    "card_id": [
+      "OP07-072"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-072.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：從自己的卡組上面查看5張卡片，公開最多1張擁有《弗克西海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面，並使最多1張自己手牌中力量值4000以下紫色的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "波琪(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-072"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-072_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：從自己的卡組上面查看5張卡片，公開最多1張擁有《弗克西海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面，並使最多1張自己手牌中力量值4000以下紫色的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征弗克西海賊團",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "OP07-073"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-073.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【啟動主要】【每回合1次】咚‼-3(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若場上有3張以上對手的角色卡時，將這張角色卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "蒙達"
+    ],
+    "card_id": [
+      "OP07-074"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-074.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：若自己的領航卡擁有《弗克西海賊團》特徵時，從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/弗克西海賊團",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "遲鈍光線"
+    ],
+    "card_id": [
+      "OP07-075"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-075.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張對手的領航卡或角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征弗克西海賊團",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "遲鈍光劍"
+    ],
+    "card_id": [
+      "OP07-076"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-076.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，將最多1張對手的角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征弗克西海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "出發去拿「ONE PIECE」啦!!!"
+    ],
+    "card_id": [
+      "OP07-077"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-077.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡擁有《百獸海賊團》或《BIG MOM海賊團》特徵時，從自己的卡組上面查看5張卡片，公開最多1張擁有《百獸海賊團》或《BIG MOM海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征四皇/和之國",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "百萬九尾連擊"
+    ],
+    "card_id": [
+      "OP07-078"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-078.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，將最多1張自己的「弗克西」置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征弗克西海賊團",
+    "attribute": null,
+    "cost": 3
+  },
+  {
+    "name": [
+      "羅布・路基"
+    ],
+    "card_id": [
+      "OP07-079"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-079.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【攻擊時】可將2張自己卡組上面的卡片放置在廢棄區：最多1張對手的角色卡，在這個回合，費用-1。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征CP0",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "羅布・路基(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-079"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-079_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【攻擊時】可將2張自己卡組上面的卡片放置在廢棄區：最多1張對手的角色卡，在這個回合，費用-1。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征CP0",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "卡古"
+    ],
+    "card_id": [
+      "OP07-080"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-080.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】可將2張自己廢棄區中擁有包含『CP』特徵的卡片依任意順序放置在卡組下面：最多1張對手的角色卡，在這個回合，費用-3。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "卡莉法"
+    ],
+    "card_id": [
+      "OP07-081"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-081.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【我方回合中】對手的角色卡全數費用-1。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "約翰船長"
+    ],
+    "card_id": [
+      "OP07-082"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-082.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【登場時】將2張自己卡組上面的卡片放置在廢棄區，最多1張對手的角色卡，在這個回合，費用-1。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征恐怖三桅帆船海賊團/原洛克斯海賊團",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "月光・摩利亞"
+    ],
+    "card_id": [
+      "OP07-083"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-083.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】可將4張自己廢棄區中擁有《恐怖三桅帆船海賊團》特徵的卡片依任意順序放置在卡組下面：這張角色卡，在這個回合，獲得【消失】，力量值+1000。",
+      "(若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/恐怖三桅帆船海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "吉司蒙達"
+    ],
+    "card_id": [
+      "OP07-084"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-084.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "絲媞希"
+    ],
+    "card_id": [
+      "OP07-085"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-085.png?240831",
+    "alternate": false,
+    "power": 9000,
+    "effect": [
+      "【登場時】可將1張自己的角色卡放置在廢棄區：KO最多1張對手的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "特",
+    "cost": 9
+  },
+  {
+    "name": [
+      "絲媞希(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-085"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-085_p1.png?240831",
+    "alternate": true,
+    "power": 9000,
+    "effect": [
+      "【登場時】可將1張自己的角色卡放置在廢棄區：KO最多1張對手的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "特",
+    "cost": 9
+  },
+  {
+    "name": [
+      "斯帕達姆"
+    ],
+    "card_id": [
+      "OP07-086"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-086.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【登場時】將2張自己卡組上面的卡片放置在廢棄區，最多1張對手的角色卡，在這個回合，費用-2。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "巴斯卡比爾"
+    ],
+    "card_id": [
+      "OP07-087"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-087.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【我方回合中】若場上有對手費用0的角色卡時，這張角色卡的力量值+3000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征世界政府",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "哈德利"
+    ],
+    "card_id": [
+      "OP07-088"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-088.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【我方回合中】【登場時】最多1張自己的「羅布・路基」，在這個回合，力量值+2000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/CP0",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "馬赫"
+    ],
+    "card_id": [
+      "OP07-089"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-089.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "摩甘茲"
+    ],
+    "card_id": [
+      "OP07-090"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-090.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】對手廢棄1張自身的手牌，並公開手牌。之後，對手抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征記者",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "OP07-091"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-091.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【攻擊時】將最多1張對手費用2以下的角色卡放置在廢棄區。之後，將自己廢棄區中費用4以上任意張數的角色卡依任意順序放置在卡組下面。每放置3張，這張角色卡，在這個回合，力量值+1000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "約賽夫"
+    ],
+    "card_id": [
+      "OP07-092"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-092.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】可將2張自己廢棄區中擁有包含『CP』特徵的卡片依任意順序放置在卡組下面：KO最多1張對手費用1以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "打",
+    "cost": 1
+  },
+  {
+    "name": [
+      "羅布・路基"
+    ],
+    "card_id": [
+      "OP07-093"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-093.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】可將3張自己廢棄區中的卡片依任意順序放置在卡組下面：對手廢棄1張自身的手牌。之後，將最多1張對手廢棄區中的卡片放置在卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征CP0",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "剃"
+    ],
+    "card_id": [
+      "OP07-094"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-094.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，若自己廢棄區有10張以上卡片時，將最多1張自己包含『CP』特徵的角色卡放回持有者的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征CP9",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "鐵塊"
+    ],
+    "card_id": [
+      "OP07-095"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-095.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，若自己廢棄區有10張以上卡片時，該張卡片，在這場對戰中，力量值+2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征CP9",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "嵐腳"
+    ],
+    "card_id": [
+      "OP07-096"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-096.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】抽1張卡片。之後，若自己廢棄區有10張以上卡片時，最多1張對手的角色卡，在這個回合，費用-3。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征CP9",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "貝卡帕庫"
+    ],
+    "card_id": [
+      "OP07-097"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-097.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "這張領航卡無法攻擊。",
+      "【啟動主要】【每回合1次】①(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張自己手牌中費用5以下擁有《蛋頭》特徵的卡片，以正面朝上加入生命值區上面或使其登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "貝卡帕庫(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-097"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-097_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "這張領航卡無法攻擊。",
+      "【啟動主要】【每回合1次】①(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張自己手牌中費用5以下擁有《蛋頭》特徵的卡片，以正面朝上加入生命值區上面或使其登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "阿特拉斯"
+    ],
+    "card_id": [
+      "OP07-098"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-098.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "若自己的生命值卡張數比對手的生命值卡張數少時，這張角色卡在對戰中不會遭到KO。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 5
+  },
+  {
+    "name": [
+      "騙人布"
+    ],
+    "card_id": [
+      "OP07-099"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-099.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "-"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征蛋頭/草帽一行人",
+    "attribute": "射",
+    "cost": 1
+  },
+  {
+    "name": [
+      "愛迪生"
+    ],
+    "card_id": [
+      "OP07-100"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-100.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】若自己的生命值卡在2張以下時，抽2張卡片，並廢棄2張自己的手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 4
+  },
+  {
+    "name": [
+      "釋迦"
+    ],
+    "card_id": [
+      "OP07-101"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-101.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 5
+  },
+  {
+    "name": [
+      "吉貝爾"
+    ],
+    "card_id": [
+      "OP07-102"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-102.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/蛋頭/草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴"
+    ],
+    "card_id": [
+      "OP07-103"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-103.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/蛋頭/草帽一行人",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "妮可・羅賓"
+    ],
+    "card_id": [
+      "OP07-104"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-104.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征蛋頭/草帽一行人",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "畢達哥拉斯"
+    ],
+    "card_id": [
+      "OP07-105"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-105.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【KO時】若自己的生命值卡在2張以下時，使最多1張自己廢棄區中費用4以下擁有《蛋頭》特徵的角色卡，以休息狀態登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 5
+  },
+  {
+    "name": [
+      "盤腿"
+    ],
+    "card_id": [
+      "OP07-106"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-106.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚‼×1】【攻擊時】若自己的生命值卡在1張以下時，KO最多1張對手費用3以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/空島",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "佛朗基"
+    ],
+    "card_id": [
+      "OP07-107"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-107.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征蛋頭/草帽一行人",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "佛朗基(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-107"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-107_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征蛋頭/草帽一行人",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "貝卡部隊-01"
+    ],
+    "card_id": [
+      "OP07-108"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-108.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征蛋頭",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "OP07-109"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-109.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：若自己的生命值卡在2張以下時，KO最多1張對手費用4以下的角色卡。之後，抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征四皇/蛋頭/草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-109"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-109_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "【啟動主要】可將這張角色卡放置在廢棄區：若自己的生命值卡在2張以下時，KO最多1張對手費用4以下的角色卡。之後，抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征四皇/蛋頭/草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "尤克"
+    ],
+    "card_id": [
+      "OP07-110"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-110.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 5
+  },
+  {
+    "name": [
+      "莉莉絲"
+    ],
+    "card_id": [
+      "OP07-111"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-111.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，將最多1張除了「莉莉絲」以外擁有《蛋頭》特徵的卡片加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "莉莉絲(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-111"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-111_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，將最多1張除了「莉莉絲」以外擁有《蛋頭》特徵的卡片加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征科學家/蛋頭",
+    "attribute": "知",
+    "cost": 3
+  },
+  {
+    "name": [
+      "魯西"
+    ],
+    "card_id": [
+      "OP07-112"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-112.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【攻擊時】【每回合1次】可將1張自己生命值區上面或下面的卡片加入手牌：可將最多1張對手費用4以下的角色卡置為休息狀態。之後，若自己的生命值卡在1張以下時，將最多1張卡組上面的卡片加入生命值區上面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征多雷斯羅薩/革命軍",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "羅羅亞・索隆"
+    ],
+    "card_id": [
+      "OP07-113"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-113.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征蛋頭/草帽一行人",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "全世界頭腦最聰明的男人"
+    ],
+    "card_id": [
+      "OP07-114"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-114.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】從自己的卡組上面查看5張卡片，公開最多1張除了「全世界頭腦最聰明的男人」以外擁有《蛋頭》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征科學家/蛋頭",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "救命啊～!!!"
+    ],
+    "card_id": [
+      "OP07-115"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-115.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】若自己的生命值卡在2張以下時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+3000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征科學家/蛋頭",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "焰裂斬"
+    ],
+    "card_id": [
+      "OP07-116"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-116.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】/【反擊】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。之後，若對手的生命值卡在2張以下時，將最多1張對手費用4以下的角色卡置為休息狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征和之國/紅鞘九人眾",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "蛋頭"
+    ],
+    "card_id": [
+      "OP07-117"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-117.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【我方回合結束時】若自己的生命值卡在3張以下時，將最多1張費用5以下擁有《蛋頭》特徵的角色卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "STAGE",
+    "feature": "特征蛋頭",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "薩波"
+    ],
+    "card_id": [
+      "OP07-118"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-118.png?240831",
+    "alternate": false,
+    "power": 9000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：KO對手最多1張費用5以下的角色卡和最多1張費用3以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SEC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征革命軍",
+    "attribute": "特",
+    "cost": 8
+  },
+  {
+    "name": [
+      "薩波(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-118"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-118_p1.png?240831",
+    "alternate": true,
+    "power": 9000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：KO對手最多1張費用5以下的角色卡和最多1張費用3以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SEC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征革命軍",
+    "attribute": "特",
+    "cost": 8
+  },
+  {
+    "name": [
+      "波特卡斯・D・艾斯"
+    ],
+    "card_id": [
+      "OP07-119"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-119.png?240831",
+    "alternate": false,
+    "power": 10000,
+    "effect": [
+      "【登場時】將最多1張自己卡組上面的卡片加入生命值區上面。之後，若自己的生命值卡在2張以下時，這張角色卡，在這個回合，獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SEC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "特",
+    "cost": 10
+  },
+  {
+    "name": [
+      "波特卡斯・D・艾斯(異圖卡)"
+    ],
+    "card_id": [
+      "OP07-119"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP07-119_p1.png?240831",
+    "alternate": true,
+    "power": 10000,
+    "effect": [
+      "【登場時】將最多1張自己卡組上面的卡片加入生命值區上面。之後，若自己的生命值卡在2張以下時，這張角色卡，在這個回合，獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法500年後的未來【OP-07】",
+    "color": [
+      "黃"
+    ],
+    "rarity": [
+      "SEC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征白鬍子海賊團",
+    "attribute": "特",
+    "cost": 10
+  }
+]

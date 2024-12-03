@@ -1,0 +1,396 @@
+[
+  {
+    "name": [
+      "騙人布(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-028"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-028_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/草帽一行人",
+    "attribute": "射",
+    "cost": 3
+  },
+  {
+    "name": [
+      "吉貝爾(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-033"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-033_p2.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/魚人族/草帽一行人",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-034"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-034_p2.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【咚!!×1】【攻擊時】將最多1張對手費用2以下的角色卡置為休息狀態。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/動物/草帽一行人",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "托拉法爾加・羅(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-035"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-035_p3.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【啟動主要】➀(可將費用區的咚!!卡依指定的數量置為休息狀態)，可將這張角色卡放回持有者的手牌：使最多1張自己手牌中費用3的角色卡登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/超新星/哈特海賊團",
+    "attribute": "斬",
+    "cost": 2
+  },
+  {
+    "name": [
+      "妮可・羅賓(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-037"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-037_p2.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【登場時】使最多1張自己手牌中費用2以下擁有《FILM》或《草帽一行人》特徵的角色卡登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "佛朗基(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-039"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-039_p2.png?240831",
+    "alternate": true,
+    "power": 7000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/草帽一行人",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "布魯克(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-040"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-040_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】使最多1張自己手牌中費用3以下擁有《FILM》或《草帽一行人》特徵的角色卡登場。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/草帽一行人",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-041"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-041_p3.png?240831",
+    "alternate": true,
+    "power": 7000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】使最多1張自己手牌中費用4以下擁有《FILM》或《草帽一行人》特徵的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/超新星/草帽一行人",
+    "attribute": "打",
+    "cost": 7
+  },
+  {
+    "name": [
+      "羅羅亞・索隆(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-043"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-043_p2.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM/超新星/草帽一行人",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "三刀流　鬼斬(異圖卡)"
+    ],
+    "card_id": [
+      "OP02-045"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-045_p2.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+6000。之後，使最多1張自己手牌中費用3以下原本沒有效果的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征FILM/超新星/草帽一行人",
+    "attribute": null,
+    "cost": 3
+  },
+  {
+    "name": [
+      "美音"
+    ],
+    "card_id": [
+      "ST11-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】【每回合1次】公開1張自己卡組上面的卡片，並將最多1張擁有《FILM》特徵的卡片加入手牌。之後，將其餘卡片放到卡組下面。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征FILM",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "美音"
+    ],
+    "card_id": [
+      "ST11-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-002.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【我方回合結束時】可以廢棄1張自己手牌中的事件卡：將最多1張自己擁有《FILM》特徵的角色卡，置為活動狀態。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "逆光"
+    ],
+    "card_id": [
+      "ST11-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-003.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡是「美音」時，選擇下列其中一項。",
+      "・將最多1張對手費用5以下的角色卡置為休息狀態。",
+      "・KO最多1張對手休息狀態費用5以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "新時代"
+    ],
+    "card_id": [
+      "ST11-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-004.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】若自己的領航卡是「美音」時，從自己的卡組上面查看3張卡片，公開最多1張除了「新時代」以外擁有《FILM》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面，將最多1張自己的咚‼卡置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "我最強"
+    ],
+    "card_id": [
+      "ST11-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST11-005.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】將最多1張自己的領航卡「美音」置為活動狀態。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 美音【ST-11】",
+    "color": [
+      "綠"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征音樂/FILM",
+    "attribute": null,
+    "cost": 3
+  }
+]

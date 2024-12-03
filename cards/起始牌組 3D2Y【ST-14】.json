@@ -1,0 +1,447 @@
+[
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST14-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】自己的角色卡全數費用+1。若場上有自己費用8以上的角色卡時，這張領航卡的力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "騙人布"
+    ],
+    "card_id": [
+      "ST14-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-002.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【咚‼×1】【攻擊時】若場上有自己費用8以上的角色卡時，KO最多1張對手費用4以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "射",
+    "cost": 3
+  },
+  {
+    "name": [
+      "香吉士"
+    ],
+    "card_id": [
+      "ST14-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-003.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】若場上有自己費用6以上的角色卡時，KO最多1張對手費用5以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "吉貝爾"
+    ],
+    "card_id": [
+      "ST14-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-004.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【啟動主要】【每回合1次】最多1張自己黑色擁有《草帽一行人》特徵的角色卡，在下一個對手回合結束前，費用+2。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/太陽海賊團",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "多尼多尼・喬巴"
+    ],
+    "card_id": [
+      "ST14-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-005.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物/草帽一行人",
+    "attribute": "知",
+    "cost": 4
+  },
+  {
+    "name": [
+      "娜美"
+    ],
+    "card_id": [
+      "ST14-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-006.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】若場上有自己費用8以上的角色卡、自己的手牌在6張以下時，抽1張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "妮可・羅賓"
+    ],
+    "card_id": [
+      "ST14-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-007.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "【登場時】/【攻擊時】若場上有自己費用8以上的角色卡時，最多1張對手的角色卡，在這個回合，費用-5。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "哈雷達斯"
+    ],
+    "card_id": [
+      "ST14-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-008.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己黑色擁有《草帽一行人》特徵的角色卡，在下一個對手回合結束前，費用+2。之後，若場上有自己費用8以上的角色卡時，抽1張卡片，並廢棄1張自己的手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征空島",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "佛朗基"
+    ],
+    "card_id": [
+      "ST14-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-009.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚‼×1】【對方回合中】若場上有自己費用6以上的角色卡時，這張角色卡不會因對手的效果而遭到KO、力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "布魯克"
+    ],
+    "card_id": [
+      "ST14-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-010.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "海格拉斯"
+    ],
+    "card_id": [
+      "ST14-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-011.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己黑色擁有《草帽一行人》特徵的角色卡，在下一個對手回合結束前，費用+2。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征波音列島",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST14-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-012.png?240831",
+    "alternate": false,
+    "power": 10000,
+    "effect": [
+      "若場上有自己費用10以上的角色卡時，這張角色卡獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 8
+  },
+  {
+    "name": [
+      "羅羅亞・索隆"
+    ],
+    "card_id": [
+      "ST14-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-013.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "斬",
+    "cost": 6
+  },
+  {
+    "name": [
+      "橡膠巨人螺旋彈"
+    ],
+    "card_id": [
+      "ST14-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-014.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】若場上有費用8以上的角色卡時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+3000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "橡膠惡魔風三刀流羊肉JET六百煩惱攻城砲"
+    ],
+    "card_id": [
+      "ST14-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-015.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】最多1張自己的領航卡或角色卡，在這個回合，力量值+3000。之後，若場上有自己費用8以上的角色卡時，KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "我還有夥伴!!!!"
+    ],
+    "card_id": [
+      "ST14-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-016.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】抽1張卡片。之後，最多1張自己的角色卡，在下一個對手回合結束前，費用+3。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "千陽號"
+    ],
+    "card_id": [
+      "ST14-017"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST14-017.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "自己黑色擁有《草帽一行人》特徵的角色卡全數費用+1。 ",
+      "【登場時】若自己的領航卡擁有《草帽一行人》特徵時，抽1張卡片。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法3D2Y【ST-14】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "STAGE",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 1
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "name": [
+      "斯摩格"
+    ],
+    "card_id": [
+      "OP02-093"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-093_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【啟動主要】【每回合1次】最多1張對手的角色卡，在這個回合，費用-1。之後，若場上有費用0的角色卡時，這張領航卡，在這個回合，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征海軍",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "克比"
+    ],
+    "card_id": [
+      "OP02-098"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-098_p4.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：KO最多1張對手費用3以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "阿鶴"
+    ],
+    "card_id": [
+      "OP02-106"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-106_p3.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【登場時】最多1張對手的角色卡，在這個回合，費用-2。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "唐吉訶德・羅希南特"
+    ],
+    "card_id": [
+      "OP02-108"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-108_p3.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍/唐吉訶德海賊團",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "哈古瓦爾・D・薩烏羅"
+    ],
+    "card_id": [
+      "OP02-109"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-109_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征巨人族/海軍",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "貝魯梅柏"
+    ],
+    "card_id": [
+      "OP02-113"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-113_p1.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【攻擊時】最多1張對手的角色卡，在這個回合，費用-2。之後，若場上有費用0的角色卡時，這張角色卡在這場對戰中，力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "火燒山"
+    ],
+    "card_id": [
+      "OP02-116"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-116_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "冰河時代"
+    ],
+    "card_id": [
+      "OP02-117"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-117_p3.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【主要】最多1張對手的角色卡，在這個回合，費用-5。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征海軍",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "威爾可"
+    ],
+    "card_id": [
+      "OP03-079"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-079_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】這張角色卡在對戰中不會遭到KO。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍/唐吉訶德海賊團",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "布蘭紐"
+    ],
+    "card_id": [
+      "OP03-089"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP03-089_p2.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看3張卡片，公開最多1張除了「布蘭紐」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "斯摩格"
+    ],
+    "card_id": [
+      "ST19-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST19-001.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "【登場時】可以廢棄1張自己手牌中黑色擁有《海軍》特徵的卡片：最多2張對手費用4以下的角色卡，在下一個對手回合結束前，無法進行攻擊。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "特",
+    "cost": 6
+  },
+  {
+    "name": [
+      "戰國"
+    ],
+    "card_id": [
+      "ST19-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST19-002.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【登場時】可以廢棄2張自己手牌中黑色擁有《海軍》特徵的卡片：若自己的領航卡擁有《海軍》特徵時，抽3張卡片。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "知",
+    "cost": 1
+  },
+  {
+    "name": [
+      "達絲琪"
+    ],
+    "card_id": [
+      "ST19-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST19-003.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】若自己的領航卡是「斯摩格」時，最多1張對手的角色卡，在這個回合，費用-4。",
+      "【啟動主要】【每回合1次】若是這張角色卡登場的回合時，將最多1張對手費用0的角色卡放置在廢棄區。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "希娜"
+    ],
+    "card_id": [
+      "ST19-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST19-004.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚‼×1】【對方回合中】這張角色卡的費用+4。",
+      "【啟動主要】【每回合1次】可將1張自己廢棄區中的卡片放置在卡組下面：附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "蒙其・D・卡普"
+    ],
+    "card_id": [
+      "ST19-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST19-005.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【啟動主要】【每回合1次】可將1張自己廢棄區中的卡片放置在卡組下面：最多1張對手的角色卡，在這個回合，費用-1。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法黑 斯摩格【ST-19】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "打",
+    "cost": 3
+  }
+]

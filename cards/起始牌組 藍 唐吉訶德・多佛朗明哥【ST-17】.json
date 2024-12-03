@@ -1,0 +1,394 @@
+[
+  {
+    "name": [
+      "唐吉訶德・多佛朗明哥"
+    ],
+    "card_id": [
+      "OP01-060"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-060_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×2】【攻擊時】①(可將費用區的咚‼卡依指定的數量置為休息狀態)：公開自己卡組最上面的卡片，若該張卡片是費用4以下擁有《王下七武海》特徵的角色卡時，也可以休息狀態登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征王下七武海/唐吉訶德海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "唐吉訶德・多佛朗明哥"
+    ],
+    "card_id": [
+      "OP01-073"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-073_p3.png?240831",
+    "alternate": true,
+    "power": 4000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】從自己的卡組上面查看5張卡片，並依任意順序變換排列放到卡組上面或下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/唐吉訶德海賊團",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "超荷鞭線"
+    ],
+    "card_id": [
+      "OP01-086"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-086_p1.png?240831",
+    "alternate": true,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，將最多1張活動狀態費用3以下的角色卡放回持有者的手牌。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征王下七武海/唐吉訶德海賊團",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "月光・摩利亞"
+    ],
+    "card_id": [
+      "OP02-054"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-054_p1.png?240831",
+    "alternate": true,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/恐怖三桅帆船海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "巴索羅繆・大熊"
+    ],
+    "card_id": [
+      "OP02-057"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP02-057_p1.png?240831",
+    "alternate": true,
+    "power": 3000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看2張卡片，公開最多1張擁有《王下七武海》特徵的卡片，並加入手牌。之後，將其餘卡片任意變換排列順序放到卡組上面或下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "UC"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/革命軍",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "吉貝爾"
+    ],
+    "card_id": [
+      "P-030"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/P-030_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【KO時】將最多1張費用3以下的角色卡放到持有者的卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "P"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/太陽海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "艾德華・衛伯"
+    ],
+    "card_id": [
+      "ST03-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST03-002_p1.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "月光・摩利亞"
+    ],
+    "card_id": [
+      "ST03-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST03-004_p3.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【登場時】將最多1張自己廢棄區中除了「月光‧摩利亞」以外費用4以下擁有《王下七武海》或《恐怖三桅帆船海賊團》特徵的角色卡，加入手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/恐怖三桅帆船海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "喬拉可爾・密佛格"
+    ],
+    "card_id": [
+      "ST03-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST03-005_p3.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【咚‼×1】【攻擊時】抽2張卡片，並廢棄2張自己的手牌。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "托拉法爾加・羅"
+    ],
+    "card_id": [
+      "ST03-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST03-008_p6.png?240831",
+    "alternate": true,
+    "power": 1000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/哈特海賊團",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "克洛克達爾"
+    ],
+    "card_id": [
+      "ST17-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST17-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】公開1張自己卡組上面的卡片，若該張卡片擁有《王下七武海》特徵時，抽2張卡片，並將1張自己的手牌放置在卡組上面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/B・W",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "托拉法爾加・羅"
+    ],
+    "card_id": [
+      "ST17-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST17-002.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】可將1張自己的角色卡放回持有者的手牌：若自己的領航卡擁有《王下七武海》特徵時，將最多1張費用4以下的角色卡放回持有者的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/哈特海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "巴其"
+    ],
+    "card_id": [
+      "ST17-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST17-003.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看3張卡片，並任意變換排列順序放到卡組上面。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/巴其宅急便",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "波雅・漢考克"
+    ],
+    "card_id": [
+      "ST17-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST17-004.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】從自己的卡組上面查看3張卡片，並任意變換排列順序放到卡組上面或下面。之後，附加最多1張休息狀態的咚‼卡在1張自己擁有《王下七武海》特徵的領航卡或角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/九蛇海賊團",
+    "attribute": "特",
+    "cost": 4
+  },
+  {
+    "name": [
+      "馬歇爾・D・汀奇"
+    ],
+    "card_id": [
+      "ST17-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST17-005.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【啟動主要】【每回合1次】可將1張自己的手牌放置在卡組上面：附加最多2張休息狀態的咚‼卡在1張自己的領航卡或角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法藍 唐吉訶德・多佛朗明哥【ST-17】",
+    "color": [
+      "藍"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征王下七武海/黑鬍子海賊團",
+    "attribute": "特",
+    "cost": 2
+  }
+]

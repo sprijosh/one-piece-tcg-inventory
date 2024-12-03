@@ -1,0 +1,504 @@
+[
+  {
+    "name": [
+      "娜美(異圖卡)"
+    ],
+    "card_id": [
+      "OP01-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-016_p3.png?240831",
+    "alternate": true,
+    "power": 2000,
+    "effect": [
+      "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「娜美」以外擁有《草帽一行人》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "R"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "特",
+    "cost": 1
+  },
+  {
+    "name": [
+      "羅羅亞・索隆(異圖卡)"
+    ],
+    "card_id": [
+      "OP01-025"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/OP01-025_p2.png?240831",
+    "alternate": true,
+    "power": 5000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征超新星/草帽一行人",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "托拉法爾加・羅"
+    ],
+    "card_id": [
+      "ST10-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【啟動主要】【每回合1次】咚‼-3(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：將最多1張對手力量值3000以下的角色卡放置在持有者的卡組下面，使最多1張自己手牌中費用4以下的角色卡登場。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅",
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征哈特海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST10-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-002.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【啟動主要】【每回合1次】若自己場上的咚‼卡為0張、或是自己的場上有8張以上咚‼卡時，從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅",
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "尤斯塔斯・基德"
+    ],
+    "card_id": [
+      "ST10-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-003.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【我方回合中】若自己的生命值卡在4張以上時，這張領航卡的力量值-1000。",
+      "【攻擊時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：這張領航卡，在這個回合，力量值+2000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅",
+      "紫"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征基德海賊團",
+    "attribute": "特",
+    "cost": 5
+  },
+  {
+    "name": [
+      "香吉士"
+    ],
+    "card_id": [
+      "ST10-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-004.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【登場時】若場上有對手力量值5000以上的角色卡時，這張角色卡，在這個回合，獲得【速攻】。",
+      "(這張卡片在登場的回合即可攻擊)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 6
+  },
+  {
+    "name": [
+      "吉貝爾"
+    ],
+    "card_id": [
+      "ST10-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-005.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【咚‼×1】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-2000。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征魚人族/草帽一行人",
+    "attribute": "打",
+    "cost": 2
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST10-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-006.png?240831",
+    "alternate": false,
+    "power": 11000,
+    "effect": [
+      "【速攻】(這張卡片在登場的回合即可攻擊)",
+      "【每回合1次】對手發動【防禦】時，KO最多1張對手力量值8000以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 10
+  },
+  {
+    "name": [
+      "奇拉"
+    ],
+    "card_id": [
+      "ST10-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-007.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，KO最多1張對手休息狀態費用3以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征基德海賊團",
+    "attribute": "斬",
+    "cost": 5
+  },
+  {
+    "name": [
+      "夏奇＆企鵝"
+    ],
+    "card_id": [
+      "ST10-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-008.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】若自己場上的咚‼卡在3張以下時，從咚‼卡組追加最多2張休息狀態的咚‼卡。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哈特海賊團",
+    "attribute": "射",
+    "cost": 4
+  },
+  {
+    "name": [
+      "強帕爾"
+    ],
+    "card_id": [
+      "ST10-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-009.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：從咚‼卡組追加最多1張活動狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哈特海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "托拉法爾加・羅"
+    ],
+    "card_id": [
+      "ST10-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-010.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若對手的手牌有7張以上時，廢棄2張對手的手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征哈特海賊團",
+    "attribute": "斬",
+    "cost": 4
+  },
+  {
+    "name": [
+      "希特"
+    ],
+    "card_id": [
+      "ST10-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-011.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，這張角色卡，到下一個我方回合開始前，力量值+2000。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征基德海賊團",
+    "attribute": "特",
+    "cost": 3
+  },
+  {
+    "name": [
+      "培波"
+    ],
+    "card_id": [
+      "ST10-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-012.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【登場時】/【攻擊時】若對手場上的咚‼卡比自己場上的咚‼卡多時，從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征純毛族/哈特海賊團",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "尤斯塔斯・基德"
+    ],
+    "card_id": [
+      "ST10-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-013.png?240831",
+    "alternate": false,
+    "power": 8000,
+    "effect": [
+      "【登場時】/【攻擊時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張自己的領航卡，到下一個我方回合開始前，力量值+1000。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征基德海賊團",
+    "attribute": "特",
+    "cost": 7
+  },
+  {
+    "name": [
+      "瓦耶"
+    ],
+    "card_id": [
+      "ST10-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-014.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，抽1張卡片，並廢棄1張手牌。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征基德海賊團",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "橡膠巨人突掌"
+    ],
+    "card_id": [
+      "ST10-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-015.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000，並KO最多1張對手力量值2000以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 1
+  },
+  {
+    "name": [
+      "橡膠猿王槍亂打"
+    ],
+    "card_id": [
+      "ST10-016"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-016.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】KO最多1張對手力量值7000以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紅"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 5
+  },
+  {
+    "name": [
+      "磁氣虎鉗"
+    ],
+    "card_id": [
+      "ST10-017"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST10-017.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】將最多1張對手費用2以下的角色卡置為休息狀態，並從咚‼卡組追加最多1張休息狀態的咚‼卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法“三船長”集結【ST-10】",
+    "color": [
+      "紫"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征基德海賊團",
+    "attribute": null,
+    "cost": 3
+  }
+]

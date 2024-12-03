@@ -1,0 +1,394 @@
+[
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST08-001"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-001.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "【我方回合中】角色卡遭到KO時，附加最多1張休息狀態的咚‼卡在這張領航卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "L"
+    ],
+    "card_type": "LEADER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "美音"
+    ],
+    "card_id": [
+      "ST08-002"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-002.png?240831",
+    "alternate": false,
+    "power": 3000,
+    "effect": [
+      "這張角色卡在與領航卡的對戰中不會遭到KO。",
+      "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-2。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征FILM",
+    "attribute": "特",
+    "cost": 2
+  },
+  {
+    "name": [
+      "卡蒙"
+    ],
+    "card_id": [
+      "ST08-003"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-003.png?240831",
+    "alternate": false,
+    "power": 4000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征東方藍",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "克比"
+    ],
+    "card_id": [
+      "ST08-004"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-004.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【啟動主要】可將這張角色卡置為休息狀態：KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "傑克"
+    ],
+    "card_id": [
+      "ST08-005"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-005.png?240831",
+    "alternate": false,
+    "power": 10000,
+    "effect": [
+      "【登場時】可以廢棄1張自己的手牌：KO全數費用1以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "SR"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征紅髮海賊團",
+    "attribute": "斬",
+    "cost": 9
+  },
+  {
+    "name": [
+      "白星"
+    ],
+    "card_id": [
+      "ST08-006"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-006.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+      "【登場時】最多1張對手的角色卡，在這個回合，費用-4。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征人魚族",
+    "attribute": "知",
+    "cost": 4
+  },
+  {
+    "name": [
+      "納菲魯塔利・薇薇"
+    ],
+    "card_id": [
+      "ST08-007"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-007.png?240831",
+    "alternate": false,
+    "power": 1000,
+    "effect": [
+      "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征阿拉巴斯坦王國",
+    "attribute": "斬",
+    "cost": 3
+  },
+  {
+    "name": [
+      "西格"
+    ],
+    "card_id": [
+      "ST08-008"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-008.png?240831",
+    "alternate": false,
+    "power": 2000,
+    "effect": [
+      "【登場時】最多1張對手的角色卡，在這個回合，費用-2。"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征山賊",
+    "attribute": "斬",
+    "cost": 1
+  },
+  {
+    "name": [
+      "瑪姬"
+    ],
+    "card_id": [
+      "ST08-009"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-009.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【登場時】若場上有費用0的角色卡時，抽1張卡片。"
+    ],
+    "counter": 2000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征佛夏村",
+    "attribute": "知",
+    "cost": 2
+  },
+  {
+    "name": [
+      "蒙其・D・卡普"
+    ],
+    "card_id": [
+      "ST08-010"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-010.png?240831",
+    "alternate": false,
+    "power": 7000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征海軍",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "蒙其・D・魯夫"
+    ],
+    "card_id": [
+      "ST08-011"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-011.png?240831",
+    "alternate": false,
+    "power": 5000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征草帽一行人",
+    "attribute": "打",
+    "cost": 3
+  },
+  {
+    "name": [
+      "拉布"
+    ],
+    "card_id": [
+      "ST08-012"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-012.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "-"
+    ],
+    "counter": 1000,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征動物",
+    "attribute": "打",
+    "cost": 4
+  },
+  {
+    "name": [
+      "Mr.2・馮・克雷(班薩姆)"
+    ],
+    "card_id": [
+      "ST08-013"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-013.png?240831",
+    "alternate": false,
+    "power": 6000,
+    "effect": [
+      "【咚‼×1】這張角色卡和對手的角色卡對戰且對戰結束時，也可以KO對戰的對手角色卡。若有執行此動作時，KO這張角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "CHARACTER",
+    "feature": "特征前B・W",
+    "attribute": "打",
+    "cost": 5
+  },
+  {
+    "name": [
+      "橡膠鐘擺"
+    ],
+    "card_id": [
+      "ST08-014"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-014.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】可將1張自己生命值區上面的卡片加入手牌：最多1張對手的角色卡，在這個回合，費用-7。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 2
+  },
+  {
+    "name": [
+      "橡膠槍"
+    ],
+    "card_id": [
+      "ST08-015"
+    ],
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com//images/cardlist/card/ST08-015.png?240831",
+    "alternate": false,
+    "power": 0,
+    "effect": [
+      "【主要】KO最多1張對手費用2以下的角色卡。"
+    ],
+    "counter": 0,
+    "card_set": "獲取方法Side 蒙其・D・魯夫【ST-08】",
+    "color": [
+      "黑"
+    ],
+    "rarity": [
+      "C"
+    ],
+    "card_type": "EVENT",
+    "feature": "特征草帽一行人",
+    "attribute": null,
+    "cost": 3
+  }
+]
